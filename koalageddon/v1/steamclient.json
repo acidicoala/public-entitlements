@@ -1,4 +1,11 @@
 {
+	"6.43.54.47": {
+		"IsAppDLCEnabled": 3074416,
+		"IsSubscribedApp": 6536496,
+		"GetDLCDataByIndex": 2981824,
+		"SharedLibraryLockStatus": 3223040,
+		"SharedLibraryStopPlaying": 3223408
+	},
 	"6.43.25.69": {
 		"IsAppDLCEnabled": 3074416,
 		"IsSubscribedApp": 6536496,
