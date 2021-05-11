@@ -318,6 +318,34 @@
         "productId": "OFB-EAST:55002"
     },
     {
+        "___name": "Frostpunk - The Rifts",
+        "entitlementTag": "FROSTPUNK_DLC_1",
+        "entitlementType": "DEFAULT",
+        "groupName": "OPP",
+        "productId": "Origin.OFR.50.0003751"
+    },
+    {
+        "___name": "Frostpunk - The Last Autumn",
+        "entitlementTag": "FROSTPUNK_DLC_2",
+        "entitlementType": "DEFAULT",
+        "groupName": "OPP",
+        "productId": "Origin.OFR.50.0003752"
+    },
+    {
+        "___name": "Frostpunk - On The Edge",
+        "entitlementTag": "FROSTPUNK_DLC_3",
+        "entitlementType": "DEFAULT",
+        "groupName": "OPP",
+        "productId": "Origin.OFR.50.0003753"
+    },
+    {
+        "___name": "Frostpunk - Season Pass",
+        "entitlementTag": "FROSTPUNK_SEASON_PASS",
+        "entitlementType": "DEFAULT",
+        "groupName": "OPP",
+        "productId": "Origin.OFR.50.0003754"
+    },
+    {
         "___name": "Seed of Evil",
         "entitlementTag": "MUTANT_YEAR_ZERO_SOE",
         "entitlementType": "DEFAULT",
@@ -421,178 +449,6 @@
         "entitlementType": "DEFAULT",
         "groupName": "NFS13PC",
         "productId": "OFB-EAST:109548145"
-    },
-    {
-        "___name": "EP01: World Adventures",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "DR:137311600",
-        "___master_title": "common2",
-        "___game_name": "The Sims 3"
-    },
-    {
-        "___name": "EP02: Ambitions",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "DR:169598400"
-    },
-    {
-        "___name": "EP03: Late Night",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "DR:194011300"
-    },
-    {
-        "___name": "EP04: Generations",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "DR:219720800"
-    },
-    {
-        "___name": "EP05: Pets",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "DR:234872200"
-    },
-    {
-        "___name": "EP06: Showtime",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "OFB-EAST:42334"
-    },
-    {
-        "___name": "EP07: Supernatural",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "OFB-EAST:49019"
-    },
-    {
-        "___name": "EP08: Seasons",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "OFB-EAST:49463"
-    },
-    {
-        "___name": "EP09: University Life",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "OFB-EAST:109545788"
-    },
-    {
-        "___name": "EP10: Island Paradise",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "OFB-EAST:109546946"
-    },
-    {
-        "___name": "EP11: Into the Future",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "OFB-EAST:64320"
-    },
-    {
-        "___name": "SP01: High-End Loft Stuff",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "DR:156751300"
-    },
-    {
-        "___name": "SP02: Fast Lane Stuff",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "DR:191313700"
-    },
-    {
-        "___name": "SP03: Outdoor Living Stuff",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "DR:215625800"
-    },
-    {
-        "___name": "SP04: Town Life Stuff",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "DR:227821700"
-    },
-    {
-        "___name": "SP05: Master Suite Stuff",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "DR:231553700"
-    },
-    {
-        "___name": "SP06: Katy Perry's Sweet Treats",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "OFB-EAST:43768"
-    },
-    {
-        "___name": "SP07: Diesel Stuff",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "OFB-EAST:43769"
-    },
-    {
-        "___name": "SP08: 70s, 80s, & 90s Stuff",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "OFB-EAST:52011"
-    },
-    {
-        "___name": "SP09: Movie Stuff",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "OFB-EAST:64317"
-    },
-    {
-        "___name": "Frostpunk - The Rifts",
-        "entitlementTag": "FROSTPUNK_DLC_1",
-        "entitlementType": "DEFAULT",
-        "groupName": "OPP",
-        "productId": "Origin.OFR.50.0003751",
-        "___master_title": "common",
-        "___game_name": "Frostpunk"
-    },
-    {
-        "___name": "Frostpunk - The Last Autumn",
-        "entitlementTag": "FROSTPUNK_DLC_2",
-        "entitlementType": "DEFAULT",
-        "groupName": "OPP",
-        "productId": "Origin.OFR.50.0003752"
-    },
-    {
-        "___name": "Frostpunk - On The Edge",
-        "entitlementTag": "FROSTPUNK_DLC_3",
-        "entitlementType": "DEFAULT",
-        "groupName": "OPP",
-        "productId": "Origin.OFR.50.0003753"
-    },
-    {
-        "___name": "Frostpunk - Season Pass",
-        "entitlementTag": "FROSTPUNK_SEASON_PASS",
-        "entitlementType": "DEFAULT",
-        "groupName": "OPP",
-        "productId": "Origin.OFR.50.0003754"
     },
     {
         "___name": "SimCity (2013) Standard Edition",
@@ -782,6 +638,146 @@
         "entitlementType": "DEFAULT",
         "groupName": "SimCityPC",
         "productId": "OFB-EAST:109552719"
+    },
+    {
+        "___name": "EP01: World Adventures",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "DR:137311600"
+    },
+    {
+        "___name": "EP02: Ambitions",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "DR:169598400"
+    },
+    {
+        "___name": "EP03: Late Night",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "DR:194011300"
+    },
+    {
+        "___name": "EP04: Generations",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "DR:219720800"
+    },
+    {
+        "___name": "EP05: Pets",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "DR:234872200"
+    },
+    {
+        "___name": "EP06: Showtime",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "OFB-EAST:42334"
+    },
+    {
+        "___name": "EP07: Supernatural",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "OFB-EAST:49019"
+    },
+    {
+        "___name": "EP08: Seasons",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "OFB-EAST:49463"
+    },
+    {
+        "___name": "EP09: University Life",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "OFB-EAST:109545788"
+    },
+    {
+        "___name": "EP10: Island Paradise",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "OFB-EAST:109546946"
+    },
+    {
+        "___name": "EP11: Into the Future",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "OFB-EAST:64320"
+    },
+    {
+        "___name": "SP01: High-End Loft Stuff",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "DR:156751300"
+    },
+    {
+        "___name": "SP02: Fast Lane Stuff",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "DR:191313700"
+    },
+    {
+        "___name": "SP03: Outdoor Living Stuff",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "DR:215625800"
+    },
+    {
+        "___name": "SP04: Town Life Stuff",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "DR:227821700"
+    },
+    {
+        "___name": "SP05: Master Suite Stuff",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "DR:231553700"
+    },
+    {
+        "___name": "SP06: Katy Perry's Sweet Treats",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "OFB-EAST:43768"
+    },
+    {
+        "___name": "SP07: Diesel Stuff",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "OFB-EAST:43769"
+    },
+    {
+        "___name": "SP08: 70s, 80s, & 90s Stuff",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "OFB-EAST:52011"
+    },
+    {
+        "___name": "SP09: Movie Stuff",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "OFB-EAST:64317"
     },
     {
         "___name": "The Sims™ 4 Outdoor Retreat",
@@ -1342,5 +1338,33 @@
         "entitlementType": "DEFAULT",
         "groupName": "THIS_WAR_OF_MINE",
         "productId": "Origin.OFR.50.0004336"
+    },
+    {
+        "___name": "Tropico 6 - Llama of Wall Street DLC",
+        "entitlementTag": "TROPICO_6_DLC_1",
+        "entitlementType": "DEFAULT",
+        "groupName": "OPP",
+        "productId": "Origin.OFR.50.0003573"
+    },
+    {
+        "___name": "Tropico 6 - Spitter DLC",
+        "entitlementTag": "TROPICO_6_DLC_2",
+        "entitlementType": "DEFAULT",
+        "groupName": "OPP",
+        "productId": "Origin.OFR.50.0003574"
+    },
+    {
+        "___name": "Tropico 6 - Lobbyistico DLC",
+        "entitlementTag": "TROPICO_6_DLC_3",
+        "entitlementType": "DEFAULT",
+        "groupName": "OPP",
+        "productId": "Origin.OFR.50.0004161"
+    },
+    {
+        "___name": "Tropico 6 - Caribbean Skies DLC",
+        "entitlementTag": "TROPICO_6_DLC_4",
+        "entitlementType": "DEFAULT",
+        "groupName": "OPP",
+        "productId": "Origin.OFR.50.0004428"
     }
 ]
