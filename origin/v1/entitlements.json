@@ -451,6 +451,116 @@
         "productId": "OFB-EAST:109548145"
     },
     {
+        "___name": "NFS Payback: High Roller Pack",
+        "entitlementTag": "DELUXE_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS18PC",
+        "productId": "Origin.OFR.50.0002194",
+        "___url": "/need-for-speed/need-for-speed-payback/FAKE_URL",
+        "___description": "Stand out from the crowd with exclusive customization items and receive in-game discounts, Rep bonuses and five shipments to get your adventure started.<br> High Roller Pack includes:<br>\n• Upcoming Story Mission Pack<br>\n• Exclusive Deluxe Edition NOS color (Can be applied to 5 cars)<br>\n• Exclusive Deluxe Edition license plate<br>\n• Exclusive Deluxe Edition leaderboard icon<br>\n• Five shipments<br>\n• 5% rep bonus<br>\n• 10% discount on in-game purchases",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Payback: Alfa Romeo Quadrifoglio",
+        "entitlementTag": "ALFA_ROMEO_QUAD_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS18PC",
+        "productId": "Origin.OFR.50.0002624",
+        "___url": "/need-for-speed/need-for-speed-payback/addon/need-for-speed-payback-alfa-romeo-quadrifoglio",
+        "___description": "Strike luck in a gamblers paradise with the Alfa Romeo Giulia Quadrifoglio. Sleek with distinctive Italian design made for making an impact when rolling up to the starting line.",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Payback: Platinum Car Pack",
+        "entitlementTag": "PREORDER_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS18PC",
+        "productId": "Origin.OFR.50.0002195",
+        "___url": "/need-for-speed/need-for-speed-payback/FAKE_URL",
+        "___description": "Drive straight into the action on the roads of Fortune Valley with instant access to five uniquely customized and tuned iconic cars, each with exclusive Platinum Blue Tire Smoke with the Need for Speed™ Payback - Platinum Car Pack.<br><br>\n\nIncludes:<br>\n&bull; Chevrolet Camaro SS 1967<br>\n&bull; Dodge Charger R/T 1969<br>\n&bull; Ford F-150 Raptor 2016<br>\n&bull; Nissan 350Z 2008<br>\n&bull; Volkswagen Golf GTI Clubsport 2016<br>\n&bull; Platinum Blue Tire Smoke",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Payback: Fortune Valley Map Shortcuts",
+        "entitlementTag": "MAP_SHORTCUTS_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS18PC",
+        "productId": "Origin.OFR.50.0002428",
+        "___url": "/need-for-speed/need-for-speed-payback/addon/fortune-valley-map-shortcuts",
+        "___description": "Instantly reveal points of interest on your map of Fortune Valley. Find out where collectibles, activities and gas stations are located. Your very own map to success!",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Payback: Infiniti Q60 S",
+        "entitlementTag": "INFINITI_Q60S_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS18PC",
+        "productId": "Origin.OFR.50.0002430",
+        "___url": "/need-for-speed/need-for-speed-payback/addon/infiniti-q60-s",
+        "___description": "The Infiniti Q60 is a premium sports coupe that combines expressive design with exhilarating performance and dynamics. The taut, muscular lines of the exterior underline the Q60's considerable performance potential - reinforced by an advanced all-new 3.0-liter V6 twin-turbo engine.\nLower and wider than previous Infiniti coupes, the Q60's bold exterior expresses 'Powerful Elegance' - an Infiniti design language which gives the sports coupe a sinewy athleticism, confidently projecting a sense of motion and power.",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Payback: MINI John Cooper Works Countryman",
+        "entitlementTag": "MINI_COUNTRYMAN_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS18PC",
+        "productId": "Origin.OFR.50.0002431",
+        "___url": "/need-for-speed/need-for-speed-payback/addon/mini-john-cooper-works-countryman",
+        "___description": "The second generation of the MINI Countryman is the biggest and most versatile model in the entire range of the tradition-steeped British brand. And another superlative now applies to the power unit of the MINI John Cooper Works Countryman. With an output of 170 kW/231 hp, it is the most powerful engine ever to be fitted in a MINI: in combination with the standard all-wheel drive system ALL4 and a robust vehicle concept, it ensures that the latest addition to the family of top John Cooper Works athletes takes the MINI experience to a whole new level - in terms of both race track feeling on the road and extreme driving fun over unsurfaced terrain.",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Payback: Pontiac Firebird Superbuild",
+        "entitlementTag": "PONTIAC_FIREBIRD_DERELICT_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS18PC",
+        "productId": "Origin.OFR.50.0002432",
+        "___url": "/need-for-speed/need-for-speed-payback/addon/pontiac-firebird-superbuild",
+        "___description": "Be a bandit in the Pontiac Firebird.",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Payback: Aston Martin DB5 Superbuild",
+        "entitlementTag": "ASTON_MARTIN_DERELICT_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS18PC",
+        "productId": "Origin.OFR.50.0002433",
+        "___url": "/need-for-speed/need-for-speed-payback/addon/aston-martin-db5-superbuild",
+        "___description": "Drive faster than a thunderball in this classic movie car.",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Payback: Chevrolet Colorado ZR2",
+        "entitlementTag": "CHEVROLET_COLORADO_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS18PC",
+        "productId": "Origin.OFR.50.0002434",
+        "___url": "/need-for-speed/need-for-speed-payback/addon/need-for-speed-payback-chevrolet-colorado-zr2",
+        "___description": "Chevrolet Colorado ZR2 is ready to tear it up on the roads as well as in the dirt of Fortune Valley. With a beefed up engine you will leave the competition in a cloud of dust!",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Payback: Range Rover Sport SVR",
+        "entitlementTag": "RANGE_ROVER_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS18PC",
+        "productId": "Origin.OFR.50.0002435",
+        "___url": "/need-for-speed/need-for-speed-payback/addon/need-for-speed-payback-range-rover-sport-svr",
+        "___description": "Make your presence known with the impactful appearance of that the Range Rover Sport SVR brings both on and off road. Not only does it look the part, it also drives like a beast!",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Payback: Speedcross Story",
+        "entitlementTag": "SPEEDCROSS_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS18PC",
+        "productId": "Origin.OFR.50.0002440",
+        "___url": "/need-for-speed/need-for-speed-payback/FAKE_URL",
+        "___description": "Slide straight into the action in the Speedcross expansion! Follow the daring exploits of Mac as he competes to become the Speedcross King of Fortune Valley.<br><br>\n\nGet behind the wheel of Rav's custom Mini Countryman, and take on elite drivers from Rockport, Olympic City, Bayview, and Palmont, to defeat the reigning champion, Jason “Barracuda” Munroe, in the Fortune Valley Speedcross Series.<br><br>\n\nSpeedcross is a track-based time-trial hybrid of precision driving and offroad mayhem offering pulse-pounding, high-speed driving action. Drift, jump, and speed through the course on your way to Speedcross glory!<br><br>\n\nSpeedcross expansion features the new Speedcross game mode with a new questline, the new Speedcross build type and two new cars, the Infiniti Q60S &amp; Mini John Cooper Works Countryman!",
+        "___downloadable": "False"
+    },
+    {
         "___name": "SimCity (2013) Standard Edition",
         "entitlementTag": "ORIGIN_DOWNLOAD",
         "entitlementType": "ORIGIN_DOWNLOAD",
@@ -778,6 +888,14 @@
         "entitlementType": "ORIGIN_DOWNLOAD",
         "groupName": "",
         "productId": "OFB-EAST:64317"
+    },
+    {
+        "___name": "The Sims™ 4 Holiday Celebration Pack",
+        "entitlementTag": "Sims4HolidayObjectsBundle_0x000000000001266C:75372",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000001266C",
+        "___v1only": true
     },
     {
         "___name": "The Sims™ 4 Outdoor Retreat",
