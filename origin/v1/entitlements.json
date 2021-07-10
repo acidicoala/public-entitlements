@@ -374,6 +374,56 @@
         "productId": "Origin.OFR.50.0003996"
     },
     {
+        "___name": "NFS Heat: K.S Edition Mitsubishi Lancer Evolution X",
+        "entitlementTag": "PREORDER_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS20PC",
+        "productId": "Origin.OFR.50.0003423",
+        "___url": "/need-for-speed/need-for-speed-heat/FAKE_URL",
+        "___description": "<ul>\n<li>K.S Edition Mitsubishi Lancer Evolution X Starter Car</li>\n<ul>\n<li>Exclusive Origin Access wrap</li>\n</ul>\n</ul>",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Heat: Deluxe Edition Upgrade Content",
+        "entitlementTag": "DELUXE_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS20PC",
+        "productId": "Origin.OFR.50.0003455",
+        "___url": "/need-for-speed/need-for-speed-heat/FAKE_URL",
+        "___description": "Hustle by day and risk it all at night in Need for Speed™ Heat, a thrilling race experience that pits you against a city’s rogue police force as you battle your way into street racing’s elite.<br><br>\n\nUPGRADE to the Deluxe Edition and get noticed in Need for Speed™ Heat with 3 additional K.S Edition cars unlocked through progression, 4 exclusive character outfits and a REP and BANK boost. <br><br>\n\nDeluxe Edition Content:<br>\nK.S Edition BMW i8 Coupe<br>\nAvailable at REP level 10 from player garage<br><br>\n \nK.S Edition Mercedes C63 AMG Coupe<br>\nAvailable at REP level 14 from player garage<br><br>\n\nK.S Edition Chevrolet Corvette Grand Sport<br>\nAvailable at REP level 18 from player garage<br><br>\n\n4x Character Outfits<br>\nAvailable in character customization<br>\nAll items are swappable and fit both male and female avatars<br><br>\n\nREP Boost<br>\nREP rewards increased by 5%<br><br>\n\nBANK Boost<br>\nBANK rewards increased by 5%",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Heat: Keys to the Map",
+        "entitlementTag": "MAP_REVEAL_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS20PC",
+        "productId": "Origin.OFR.50.0003885",
+        "___url": "/need-for-speed/need-for-speed-heat/addon/need-for-speed-heat--keys-to-the-map",
+        "___description": "Shift into high gear with the keys to the Need for Speed Heat Map. Every collectible, location and activity in every district will be revealed instantly, so no need to slow down to explore. From safe houses to street art, find exactly what you want, faster!",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Heat: McLaren F1 Black Market Delivery",
+        "entitlementTag": "MCLAREN_F1_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS20PC",
+        "productId": "Origin.OFR.50.0003886",
+        "___url": "/need-for-speed/need-for-speed-heat/addon/need-for-speed-heat--mclaren-f1-black-market-delivery",
+        "___description": "A new shipment has arrived to the dockyard of Palm City. Get the McLaren F1 Black Market Delivery to burn all limits with the McLaren F1 through a unique set of challenges. Plus, receive hot, new special customization parts, character outfits, vanity items, and decals as rewards!",
+        "___downloadable": "False"
+    },
+    {
+        "___name": "NFS Heat: Red Bull Car Park Drift Nissan 370 Z",
+        "entitlementTag": "REDBULL_CONTENT_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS20PC",
+        "productId": "Origin.OFR.50.0003935",
+        "___url": "/need-for-speed/need-for-speed-heat/FAKE_URL",
+        "___description": "",
+        "___downloadable": "False"
+    },
+    {
         "___name": "Limited Edition",
         "entitlementTag": "PROJECT10_CODE_CONSUMED_LE1",
         "entitlementType": "DEFAULT",
