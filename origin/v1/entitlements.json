@@ -1424,6 +1424,20 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000040A01"
     },
     {
+        "___name": "The Sims™ 4 Gnome on the Go - Cottage Living Preorder Bonus",
+        "entitlementTag": "GnomeOnTheGo_CLPreorderBonus:283880",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000454E8"
+    },
+    {
+        "___name": "The Sims™ 4 Cottage Living",
+        "entitlementTag": "EP11_CottageLiving_0x00000000000405E6:263654",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000405E6"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
