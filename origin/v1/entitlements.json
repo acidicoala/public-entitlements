@@ -1569,5 +1569,12 @@
         "entitlementType": "DEFAULT",
         "groupName": "OPP",
         "productId": "Origin.OFR.50.0004428"
+    },
+    {
+        "___name": "Tropico 6 - Festival DLC",
+        "entitlementTag": "TROPICO_6_DLC_5",
+        "entitlementType": "DEFAULT",
+        "groupName": "OPP",
+        "productId": "Origin.OFR.50.0004685"
     }
 ]
