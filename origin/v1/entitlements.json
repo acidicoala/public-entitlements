@@ -781,6 +781,55 @@
         "___downloadable": "True"
     },
     {
+        "___name": "Northgard - Svafnir, Clan of the Snake",
+        "entitlementTag": "NORTHGARD_HCOTS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NORTHGARD_2",
+        "productId": "Origin.OFR.50.0004147"
+    },
+    {
+        "___name": "Northgard - Nidhogg Clan of the Dragon",
+        "entitlementTag": "NORTHGARD_HCOTD",
+        "entitlementType": "DEFAULT",
+        "groupName": "NORTHGARD_2",
+        "productId": "Origin.OFR.50.0004148"
+    },
+    {
+        "___name": "Northgard - Svardilfari, Clan of the Horse",
+        "entitlementTag": "NORTHGARD_HCOTH",
+        "entitlementType": "DEFAULT",
+        "groupName": "NORTHGARD_2",
+        "productId": "Origin.OFR.50.0004149"
+    },
+    {
+        "___name": "Northgard - Lyngbakr, Clan of the Kraken",
+        "entitlementTag": "NORTHGARD_HCOTK",
+        "entitlementType": "DEFAULT",
+        "groupName": "NORTHGARD_2",
+        "productId": "Origin.OFR.50.0004150"
+    },
+    {
+        "___name": "Northgard - Himminbrjotir, Clan of the Ox",
+        "entitlementTag": "NORTHGARD_HCOTO",
+        "entitlementType": "DEFAULT",
+        "groupName": "NORTHGARD_2",
+        "productId": "Origin.OFR.50.0004151"
+    },
+    {
+        "___name": "Northgard - Brundr & Kaelinn, Clan of the Lynx",
+        "entitlementTag": "NORTHGARD_HCOTL",
+        "entitlementType": "DEFAULT",
+        "groupName": "NORTHGARD_2",
+        "productId": "Origin.OFR.50.0004350"
+    },
+    {
+        "___name": "Northgard - Ratatoskr, Clan of the Squirrel",
+        "entitlementTag": "NORTHGARD_HCOTS",
+        "entitlementType": "DEFAULT",
+        "groupName": "NORTHGARD_2",
+        "productId": "Origin.OFR.50.0004614"
+    },
+    {
         "___name": "SimCity (2013) Standard Edition",
         "entitlementTag": "ORIGIN_DOWNLOAD",
         "entitlementType": "ORIGIN_DOWNLOAD",
