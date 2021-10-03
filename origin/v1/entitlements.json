@@ -1664,6 +1664,20 @@
         "productId": "SIMS4.OFF.SOLP.0x00000000000463B9"
     },
     {
+        "___name": "The Sims™ 4 Fashion Street Kit",
+        "entitlementTag": "SP24_FashionStreetKit_0x0000000000045113:282899",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000045113"
+    },
+    {
+        "___name": "The Sims™ 4 Incheon Arrivals Kit",
+        "entitlementTag": "SP26_IncheonArrivalsKit_0x00000000000467AA:288682",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000467AA"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
