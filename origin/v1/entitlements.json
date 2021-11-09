@@ -1678,6 +1678,13 @@
         "productId": "SIMS4.OFF.SOLP.0x00000000000467AA"
     },
     {
+        "___name": "The Sims™ 4 Blooming Rooms Kit",
+        "entitlementTag": "SP29_BloomingRoomsKit_0x0000000000046859:288857",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000046859"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
