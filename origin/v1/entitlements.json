@@ -1692,6 +1692,13 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000046858"
     },
     {
+        "___name": "The Sims™ 4 Carnaval Streetwear Kit",
+        "entitlementTag": "SP30_CarnavalStreetwearKit_0x000000000004685A:288858",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000004685A"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
