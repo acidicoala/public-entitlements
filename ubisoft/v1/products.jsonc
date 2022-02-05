@@ -1,117 +1,235 @@
 {
-    "games": {
-        "3353": { // Watch Dogs: Legion
-            "dlcs": [
-                5187,
-                5188,
-                5189,
-                5190,
-                5191,
-                5192,
-                5193,
-                5194,
-                5195,
-                5196,
-                10789,
-                10790,
-                10791,
-                10792,
-                10793,
-                11228,
-                17791,
-                58001,
-                58250,
-                58861
-            ],
-            "items": [
-                5354,
-                5355,
-                5356,
-                5357,
-                5358
-            ]
-        },
-        "5405": { // Immortals Fenyx Rising
-            "dlcs": [
-                5490,
-                5491,
-                5492,
-                5515,
-                5516,
-                5517,
-                5518,
-                5519,
-                5520,
-                5521,
-                5522,
-                5523,
-                5524,
-                5525,
-                5526,
-                5527,
-                5528,
-                5529,
-                5530,
-                5531,
-                5532,
-                5533,
-                5534,
-                5535,
-                5536,
-                5537,
-                5538,
-                5539,
-                5540,
-                5541,
-                5542,
-                5724
-            ],
-            "items": [
-                5507,
-                5508,
-                5509,
-                5510,
-                5511,
-                5512,
-                5513,
-                5514
-            ]
-        },
-        "13504": { // Assassin's Creed: Valhalla 
-            "dlcs": [
-                5606,
-                5625,
-                5626,
-                5627,
-                5628,
-                5629,
-                5630,
-                5631,
-                5632,
-                5633,
-                5634,
-                5635,
-                5636,
-                5637,
-                5638,
-                5639,
-                5640,
-                5641,
-                5676,
-                5691,
-                5695,
-                5696,
-                5697,
-                5698,
-                5699
-            ],
-            "items": [
-                5596,
-                5597,
-                5598,
-                5599,
-                5600
-            ]
-        }
-    }
+  "3353": { // Watch Dogs: Legion
+    "dlcs": [
+      5187,
+      5188,
+      5189,
+      5190,
+      5191,
+      5192,
+      5193,
+      5194,
+      5195,
+      5196,
+      10789,
+      10790,
+      10791,
+      10792,
+      10793,
+      11228,
+      17888,
+      17791,
+      57998,
+      58001,
+      58002,
+      58861
+    ],
+    "items": [
+      5354,
+      5355,
+      5356,
+      5357,
+      5358
+    ]
+  },
+  "5266": { // Far Cry 6
+    "dlcs": [
+      13652,
+      13653,
+      13654,
+      13655,
+      13656,
+      13657,
+      13658,
+      13659,
+      13660,
+      13661,
+      13662,
+      13663,
+      13664,
+      13665,
+      13666,
+      13667,
+      13668,
+      17772,
+      17773,
+      17774,
+      17812,
+      17813,
+      17814,
+      17815,
+      17816,
+      17817,
+      17818,
+      17907,
+      17908,
+      17909,
+      17910,
+      17911,
+      17938,
+      17773,
+      58881
+    ],
+    "items": [
+      57122,
+      57918,
+      57919,
+      57920,
+      57921
+    ]
+  },
+  "5405": { // Immortals Fenyx Rising
+    "dlcs": [
+      5490,
+      5491,
+      5492,
+      5519,
+      5520,
+      5521,
+      5522,
+      5523,
+      5524,
+      5525,
+      5526,
+      5527,
+      5528,
+      5529,
+      5530,
+      5531,
+      5532,
+      5533,
+      5534,
+      5535,
+      5536,
+      5537,
+      5538,
+      5539,
+      5540,
+      5541,
+      5542,
+      5723,
+      5724
+    ],
+    "items": [
+      5507,
+      5508,
+      5509,
+      5510,
+      5511,
+      5512,
+      5513,
+      5514
+    ]
+  },
+  "????": { // Anno 1800
+    "dlcs": [ // Credit to asqwed for comments
+      4556, // DLC0_Anarchist
+      4557, // Anno 1800 ULC - Imperial Pack - PreOrder Bonus
+      5440, // Anno 1800 - Twitch Drop - Billboard - Annoholic
+      5441, // Anno 1800 - Twitch Drop - Billboard - Anno Union
+      5442, // Anno 1800 - Twitch Drop - Billboard - Anarchy
+      5443, // Anno 1800 - Twitch Drop - Billboard - Sunken Treasures
+      5444, // Anno 1800 - Twitch Drop - Billboard - Botanical Garden
+      5445, // Anno 1800 - Twitch Drop - Billboard - The Passage
+      5446, // Anno 1800 - Twitch Drop - Flag Banner - Annoholic
+      5447, // Anno 1800 - Twitch Drop - Flag Banner - Anno Union
+      5448, // Anno 1800 - Twitch Drop - Morris Column - Annoholic
+      5560, // Anno 1800 DLC - Christmas
+      5800, // Anno 1800 DLC - Charity Tree
+      12104, // Anno 1800 Company Logos
+      12165, // LanguagePackEnglish
+      12166, // LanguagePackFrench
+      12167, // LanguagePackItalian
+      12168, // LanguagePackGerman
+      12169, // LanguagePackSpanish
+      12170, // LanguagePackPolish
+      12171, // LanguagePackRussian
+      12172, // LanguagePackJapanese
+      12173, // LanguagePackKorean
+      12174, // LanguagePackChinese
+      12175, // LanguagePackTaiwanese
+      14074, // Anno 1800 - Season Pass Player Assets
+      14214, // Anno 1800 DLC - Sunken Treasure
+      14215, // Anno 1800 DLC - Botanica
+      14216, // Anno 1800 DLC - The Passage
+      // 15519, // Uplay+ Non Subscription Tracker
+      // 15923, // Anno 1800 - Playtest Content
+      16621, // Anno 1800 DLC - The Palace
+      16622, // Anno 1800 DLC - Bright Harvest
+      16623, // Anno 1800 DLC - Land of Lions
+      16624, // Anno 1800 - Season 2 Pass Reward
+      16625, // Anno 1800 - Twitch Drop - Seat of Power - Flag
+      16626, // Anno 1800 - Twitch Drop - Seat of Power - Billboard
+      16627, // Anno 1800 - Twitch Drop - Bright Harvest - Flag
+      16628, // Anno 1800 - Twitch Drop - Bright Harvest - Billboard
+      16629, // Anno 1800 - Twitch Drop - Land of Lions - Flag
+      16630, // Anno 1800 - Twitch Drop - Land of Lions - Billboard
+      17029, // Anno Bundle History Edition Ornament
+      17030, // Anno 1602 History Edition Company Logo
+      17031, // Anno 1503 History Edition Company Logo
+      17032, // Anno 1701 History Edition Company Logo
+      17033, // Anno 1404 History Edition Company Logo
+      17316, // Anno 1800 DLC - Amusement Park
+      17627, // Anno 1800 DLC - City Lights
+      17794, // Anno 1800 DLC - Docklands
+      17795, // Anno 1800 DLC - Tourism
+      17796, // Anno 1800 DLC - HighLife
+      17797, // Anno 1800 DLC - Skin Pack 1 (CDLC04)
+      17798, // Anno 1800 DLC - Pedestrian Zone (CDLC05)
+      17799, // Anno 1800 DLC - CDLC06
+      17804, // Anno 1800 - Season 3 Pass Reward
+      17806, // Anno 1800 - Twitch Drop - DockLands 1
+      17807, // Anno 1800 - Twitch Drop - DockLands 2
+      17808, // Anno 1800 - Twitch Drop - Touism 1
+      17809, // Anno 1800 - Twitch Drop - Tourism 2
+      17810, // Anno 1800 - Twitch Drop - HighLife 1
+      17811, // Anno 1800 - Twitch Drop - HighLife 2
+      // 17878, // Uplay - Free Weekend - Feb 2021
+      // 17879, // Epic - Free Weekend - Feb 2021
+      59720, // Anno 1800 - Anno 1701 - Ship Skin
+      59721 // Anno 1800 - Anno 2070 - Ship Skin
+    ],
+    "items": []
+  },
+  "13504": { //  Assassin's Creed: Valhalla
+    "dlcs": [
+      5606,
+      5607,
+      5625,
+      5626,
+      5627,
+      5628,
+      5629,
+      5630,
+      5631,
+      5632,
+      5633,
+      5634,
+      5635,
+      5636,
+      5637,
+      5638,
+      5639,
+      5640,
+      5641,
+      5676,
+      5691,
+      5692,
+      5693,
+      5694,
+      5695,
+      5696,
+      5697,
+      5698,
+      5699,
+      5725
+    ],
+    "items": [
+      5596,
+      5597,
+      5598,
+      5599,
+      5600
+    ]
+  }
 }
