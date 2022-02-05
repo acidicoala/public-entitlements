@@ -1,6 +1,6 @@
 {
   "3353": {
-    "game": "Watch Dogs: Legion",
+    "name": "Watch Dogs: Legion",
     "dlcs": [
       5187,
       5188,
@@ -34,7 +34,7 @@
     ]
   },
   "4553": {
-    "game": "Anno 1800",
+    "name": "Anno 1800",
     "dlcs": [
       // Credit to asqwed for comments
       4556, // DLC0_Anarchist
@@ -108,7 +108,7 @@
     "items": []
   },
   "5266": {
-    "game": "Far Cry 6",
+    "name": "Far Cry 6",
     "dlcs": [
       13652,
       13653,
@@ -155,7 +155,7 @@
     ]
   },
   "5405": {
-    "game": "Immortals Fenyx Rising",
+    "name": "Immortals Fenyx Rising",
     "dlcs": [
       5490,
       5491,
@@ -199,7 +199,7 @@
     ]
   },
   "13504": {
-    "game": "Assassin's Creed: Valhalla",
+    "name": "Assassin's Creed: Valhalla",
     "dlcs": [
       5606,
       5607,
