@@ -64,7 +64,6 @@
       12173, // LanguagePackKorean
       12174, // LanguagePackChinese
       12175, // LanguagePackTaiwanese
-      12176,
       14074, // Anno 1800 - Season Pass Player Assets
       14214, // Anno 1800 DLC - Sunken Treasure
       14215, // Anno 1800 DLC - Botanica
@@ -103,9 +102,9 @@
       17811, // Anno 1800 - Twitch Drop - HighLife 2
       // 17878, // Uplay - Free Weekend - Feb 2021
       // 17879, // Epic - Free Weekend - Feb 2021
-      59682,
       59720, // Anno 1800 - Anno 1701 - Ship Skin
-      59721 // Anno 1800 - Anno 2070 - Ship Skin
+      59721, // Anno 1800 - Anno 2070 - Ship Skin
+      60682 //Anno 1800 DLC - Sesional Decorations (CDLC07)
     ],
     "items": []
   },
