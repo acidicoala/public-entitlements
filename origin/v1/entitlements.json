@@ -346,6 +346,76 @@
         "productId": "Origin.OFR.50.0003754"
     },
     {
+        "___name": "GRID Legends",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "GRID_5PC",
+        "productId": "Origin.OFR.50.0004676"
+    },
+    {
+        "___name": "GRID Legends: Deluxe Edition",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "GRID_5PC",
+        "productId": "Origin.OFR.50.0004720"
+    },
+    {
+        "___name": "GRID Legends: Deluxe Upgrade",
+        "entitlementTag": "GL_DELUXE_UPGRADE",
+        "entitlementType": "DEFAULT",
+        "groupName": "GRID_5PC",
+        "productId": "Origin.OFR.50.0004847"
+    },
+    {
+        "___name": "GRID Legends: Voltz Pack",
+        "entitlementTag": "GL_Voltz_Legends_Pack",
+        "entitlementType": "DEFAULT",
+        "groupName": "GRID_5PC",
+        "productId": "Origin.OFR.50.0004750"
+    },
+    {
+        "___name": "GRID Legends: Seneca & Ravenwest Double Pack",
+        "entitlementTag": "GL_Preorder_Content",
+        "entitlementType": "DEFAULT",
+        "groupName": "GRID_5PC",
+        "productId": "Origin.OFR.50.0004748"
+    },
+    {
+        "___name": "GRID Legends: Mechanic Pass",
+        "entitlementTag": "GL_Mechanics_Pass",
+        "entitlementType": "DEFAULT",
+        "groupName": "GRID_5PC",
+        "productId": "Origin.OFR.50.0004749"
+    },
+    {
+        "___name": "GRID Legends: DLC1",
+        "entitlementTag": "GL_DLC1",
+        "entitlementType": "DEFAULT",
+        "groupName": "GRID_5PC",
+        "productId": "Origin.OFR.50.0004724"
+    },
+    {
+        "___name": "GRID Legends: DLC2",
+        "entitlementTag": "GL_DLC2",
+        "entitlementType": "DEFAULT",
+        "groupName": "GRID_5PC",
+        "productId": "Origin.OFR.50.0004743"
+    },
+    {
+        "___name": "GRID Legends: DLC3",
+        "entitlementTag": "GL_DLC3",
+        "entitlementType": "DEFAULT",
+        "groupName": "GRID_5PC",
+        "productId": "Origin.OFR.50.0004744"
+    },
+    {
+        "___name": "GRID Legends: DLC4",
+        "entitlementTag": "GL_DLC4",
+        "entitlementType": "DEFAULT",
+        "groupName": "GRID_5PC",
+        "productId": "Origin.OFR.50.0004745"
+    },
+    {
         "___name": "Seed of Evil",
         "entitlementTag": "MUTANT_YEAR_ZERO_SOE",
         "entitlementType": "DEFAULT",
