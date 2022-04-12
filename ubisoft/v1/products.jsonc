@@ -64,7 +64,7 @@
       12173, // LanguagePackKorean
       12174, // LanguagePackChinese
       12175, // LanguagePackTaiwanese
-      12176, // This ID does not exist in game files but unlocker DLL says it's called in by the game
+      12176, // ???
       14074, // Anno 1800 - Season Pass Player Assets
       14214, // Anno 1800 DLC - Sunken Treasure
       14215, // Anno 1800 DLC - Botanica
@@ -103,10 +103,23 @@
       17811, // Anno 1800 - Twitch Drop - HighLife 2
       // 17878, // Uplay - Free Weekend - Feb 2021
       // 17879, // Epic - Free Weekend - Feb 2021
-      59682, // This ID does not exist in game files but unlocker DLL says it's called in by the game
+      59682, // ???
       59720, // Anno 1800 - Anno 1701 - Ship Skin
       59721, // Anno 1800 - Anno 2070 - Ship Skin
-      60682 //Anno 1800 DLC - Sesional Decorations (CDLC07) (Also known as "Seasonal Decorations Pack" in the stores)
+      60440, // Anno 1800 DLC - Seeds of Change
+      60673, // Anno 1800 DLC - Empire of the Skies
+      60681, // Anno 1800 DLC - New World Rising
+      60682, // Anno 1800 DLC - "Seasonal Decorations Pack
+      60683, // Anno 1800 DLC - CDLC08
+      60684, // Anno 1800 DLC - CDLC09
+      60685, // Anno 1800 - Season 4 Bonus Content
+      60686, // Anno 1800 - Twitch Drop - DLC10 Flag
+      60687, // Anno 1800 - Twitch Drop - DLC10 Billboard
+      60688, // Anno 1800 - Twitch Drop - DLC11 Flag
+      60689, // Anno 1800 - Twitch Drop - DLC11 Billboard
+      60690, // Anno 1800 - Twitch Drop - DLC12 Flag
+      60691, // Anno 1800 - Twitch Drop - DLC12 Billboard
+      60692 // Anno 1800 - Refer-a-Friend
     ],
     "items": []
   },
