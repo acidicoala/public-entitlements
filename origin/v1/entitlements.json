@@ -1763,24 +1763,38 @@
     },
     {
         "___name": "The Sims™ 4 Carnaval Streetwear Kit",
-        "entitlementTag": "SP30_CarnavalStreetwearKit_0x000000000004685A:288858",
+        "entitlementTag": "SP30_CarnavalKit_0x000000000004685A:288858",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x000000000004685A"
     },
     {
         "___name": "The Sims™ 4 My Wedding Stories",
-        "entitlementTag": "GP11_MyWeddingStories_0x0000000000047D7E:294270",
+        "entitlementTag": "GP11_WeddingStories_0x0000000000047D7E:294270",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x0000000000047D7E"
     },
     {
         "___name": "The Sims™ 4 Décor to the Max Kit",
-        "entitlementTag": "SP31_DecorToTheMaxKit_0x0000000000048CFD:298237",
+        "entitlementTag": "SP31_Maximalism Kit_0x0000000000048CFD:298237",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x0000000000048CFD"
+    },
+    {
+        "___name": "The Sims™ 4 Moonlight Chic Kit",
+        "entitlementTag": "SP32_MoonlightChicKit_0x000000000004CB7A:314234",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000004CB7A"
+    },
+    {
+        "___name": "The Sims™ 4 Little Campers Kit",
+        "entitlementTag": "SP33_LittleCampersKit_0x000000000004CB7B:314235",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000004CB7B"
     },
     {
         "___name": "The Sinking City - Investigator Pack",
