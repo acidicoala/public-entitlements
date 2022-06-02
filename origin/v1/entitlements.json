@@ -1784,17 +1784,24 @@
     },
     {
         "___name": "The Sims™ 4 Moonlight Chic Kit",
-        "entitlementTag": "SP32_MoonlightChicKit_0x000000000004CB7A:314234",
+        "entitlementTag": "SP32_DateNightParisKit_0x000000000004CB7A:314234",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x000000000004CB7A"
     },
     {
         "___name": "The Sims™ 4 Little Campers Kit",
-        "entitlementTag": "SP33_LittleCampersKit_0x000000000004CB7B:314235",
+        "entitlementTag": "SP33_CozyCampoutKit_0x000000000004CB7B:314235",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x000000000004CB7B"
+    },
+    {
+        "___name": "The Sims™ 4 Werewolves",
+        "entitlementTag": "GP12_Werewolves_0x0000000000048E3E:298558",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000048E3E"
     },
     {
         "___name": "The Sinking City - Investigator Pack",
