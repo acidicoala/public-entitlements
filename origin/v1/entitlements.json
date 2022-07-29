@@ -1804,11 +1804,25 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000048E3E"
     },
     {
-        "___name": "The Sims™ 4 High School Years",
-        "entitlementTag": "EP12_High_School_Years_0x000000000004AAD0:305872",
+        "___name": "The Sims™ 4 High School Years (normal)",
+        "entitlementTag": "EP12_HighSchool_0x0000000000047D4B:294219",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000047D4B"
+    },
+    {
+        "___name": "The Sims™ 4 High School Years (preorder)",
+        "entitlementTag": "EP12_PrePurchase_0x000000000004AAD0:305872",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x000000000004AAD0"
+    },
+    {
+        "___name": "The Sims™ 4 High School Years (preorder only)",
+        "entitlementTag": "EP12_IncentiveItems_0x000000000004AAD1:305873",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000004AAD1"
     },
     {
         "___name": "The Sinking City - Investigator Pack",
