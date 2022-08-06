@@ -318,6 +318,48 @@
         "productId": "OFB-EAST:55002"
     },
     {
+        "___name": "F1® 22 Champions Edition",
+        "entitlementTag": "ORIGIN_DOWNLOAD",
+        "entitlementType": "ORIGIN_DOWNLOAD",
+        "groupName": "",
+        "productId": "Origin.OFR.50.0004955"
+    },
+    {
+        "___name": "F1® 22: Early Pre-Order Incentive",
+        "entitlementTag": "EAR_CHAMPS_INT",
+        "entitlementType": "DEFAULT",
+        "groupName": "F1-2022PC",
+        "productId": "Origin.OFR.50.0004924"
+    },
+    {
+        "___name": "F1® 22: Champions Content Bundle",
+        "entitlementTag": "DLX_UPGRADE_INT",
+        "entitlementType": "DEFAULT",
+        "groupName": "F1-2022PC",
+        "productId": "Origin.OFR.50.0004950"
+    },
+    {
+        "___name": "F1® 22: 18,000 PitCoin",
+        "entitlementTag": "VC_18000",
+        "entitlementType": "DEFAULT",
+        "groupName": "F1-2022PC",
+        "productId": "Origin.OFR.50.0004937"
+    },
+    {
+        "___name": "F1® 22: Champions Edition Content Pack",
+        "entitlementTag": "CHAMPS_INT",
+        "entitlementType": "DEFAULT",
+        "groupName": "F1-2022PC",
+        "productId": "Origin.OFR.50.0004923"
+    },
+    {
+        "___name": "F1® 22: Pre-Order Content",
+        "entitlementTag": "STD_INT",
+        "entitlementType": "DEFAULT",
+        "groupName": "F1-2022PC",
+        "productId": "Origin.OFR.50.0004921"
+    },
+    {
         "___name": "Frostpunk - The Rifts",
         "entitlementTag": "FROSTPUNK_DLC_1",
         "entitlementType": "DEFAULT",
