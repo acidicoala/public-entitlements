@@ -430,7 +430,7 @@
         "productId": "Origin.OFR.50.0004749"
     },
     {
-        "___name": "GRID Legends: DLC1",
+        "___name": "GRID Legends: Valentin's Classic Car-Nage",
         "entitlementTag": "GL_DLC1",
         "entitlementType": "DEFAULT",
         "groupName": "GRID_5PC",
@@ -1865,6 +1865,13 @@
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x000000000004AAD1"
+    },
+    {
+        "___name": "The Sims™ 4 First Fits Kit",
+        "entitlementTag": "SP34_LittleTrendsetters_0x000000000004E9E7:322023",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000004E9E7"
     },
     {
         "___name": "The Sinking City - Investigator Pack",
