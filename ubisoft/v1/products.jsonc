@@ -218,7 +218,7 @@
     "name": "Assassin's Creed: Valhalla",
     "dlcs": [
       5606, // DLC: The Legend of Beowulf
-      5607, // DLC: Berserker Pack
+      5607, // DLC: Wrath of the Druids
       5625, // Language Pack: fr-FR
       5626, // Language Pack: it-IT
       5627, // Language Pack: de-DE
@@ -233,7 +233,7 @@
       5636, // Language Pack: zh-CN
       5637, // Language Pack: ko-KO
       5638,
-      5639,
+      5639, // DLC: Berserker Pack
       5640, // DLC: Berserker Settlement Pack
       5641, // DLC: Berserker Ship Pack
       5676, // DLC: Season Pass
