@@ -217,39 +217,39 @@
   "13504": {
     "name": "Assassin's Creed: Valhalla",
     "dlcs": [
-      5606,
-      5607,
-      5625,
-      5626,
-      5627,
-      5628,
-      5629,
-      5630,
-      5631,
-      5632,
-      5633,
+      5606, // DLC: The Legend of Beowulf
+      5607, // DLC: Berserker Pack
+      5625, // Language Pack: fr-FR
+      5626, // Language Pack: it-IT
+      5627, // Language Pack: de-DE
+      5628, // Language Pack: es-ES
+      5629, // Language Pack: ru-RU
+      5630, // Language Pack: pt-BR
+      5631, // Language Pack: ja-JP
+      5632, // Language Pack: pl-PL
+      5633, // Language Pack: ar-AA
       5634,
-      5635,
-      5636,
-      5637,
+      5635, // Language Pack: zh-TW
+      5636, // Language Pack: zh-CN
+      5637, // Language Pack: ko-KO
       5638,
       5639,
-      5640,
-      5641,
-      5676,
-      5691,
-      5692,
-      5693,
-      5694,
+      5640, // DLC: Berserker Settlement Pack
+      5641, // DLC: Berserker Ship Pack
+      5676, // DLC: Season Pass
+      5691, // DLC: Set of Runes
+      5692, // Raven skin: Huginn and Muninn
+      5693, // Mount skin: Hati
+      5694, // DLC: The Siege of Paris
       5695,
       5696,
       5697,
-      5698,
+      5698, // Language Pack: en-US
       5699,
-      5725,
+      5725, // DLC: Premium Starter Pack
       59625,
-      59884,
-      59885
+      59884, // DLC: Dawn of Ragnarök
+      59885 // DLC: Twilight Pack
     ],
     "items": [
       5596,
