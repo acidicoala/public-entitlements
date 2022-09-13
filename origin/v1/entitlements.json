@@ -1275,8 +1275,7 @@
         "entitlementTag": "Sims4HolidayObjectsBundle_0x000000000001266C:75372",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x000000000001266C",
-        "___v1only": true
+        "productId": "SIMS4.OFF.SOLP.0x000000000001266C"
     },
     {
         "___name": "The Sims™ 4 Outdoor Retreat",
@@ -1872,6 +1871,13 @@
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x000000000004E9E7"
+    },
+    {
+        "___name": "The Sims™ 4 Desert Luxe Kit",
+        "entitlementTag": "SP35_Desert_Luxe_Kit_0x000000000004E9E8:322024",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000004E9E8"
     },
     {
         "___name": "The Sinking City - Investigator Pack",
