@@ -1710,6 +1710,20 @@
         "productId": "SIMS4.OFF.SOLP.0x000000000004E9E8"
     },
     {
+        "___name": "The Sims™ 4 Pastel Pop Kit",
+        "entitlementTag": "SP36_PastelPopKit_0x0000000000050752:329554",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000050752"
+    },
+    {
+        "___name": "The Sims™ 4 Everyday Clutter Kit",
+        "entitlementTag": "SP37_EverydayClutterKit_0x0000000000050753:329555",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000050753"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
