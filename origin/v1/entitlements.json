@@ -723,6 +723,34 @@
         "___downloadable": "False"
     },
     {
+        "___name": "Preorder bonuses",
+        "entitlementTag": "NFS22_PREORDER_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0004477"
+    },
+    {
+        "___name": "Palace Edition bonuses",
+        "entitlementTag": "NFS22_DELUXE_EDITION_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0004475"
+    },
+    {
+        "___name": "Palace Edition upgrade (?)",
+        "entitlementTag": "NFS22_DELUXE_UPGRADE",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0004476"
+    },
+    {
+        "___name": "Keys to the City (future DLC?)",
+        "entitlementTag": "NFS22_KEYSTOTHECITY_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0004474"
+    },
+    {
         "___name": "Northgard - Svafnir, Clan of the Snake",
         "entitlementTag": "NORTHGARD_HCOTS",
         "entitlementType": "DEFAULT",
