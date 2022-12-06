@@ -1,5 +1,5 @@
 {
-    "IsAppDLCEnabled": "55 8B EC 83 EC ?? 53 8B D9 8B ?? ?? ?? ?? ?? 56 8B 75 08",
+    "IsAppDLCEnabled": "55 8B EC 83 EC 40 A1 ?? ?? ?? ?? 53 56 8B D9 83 38 00 57 89 5D E4",
     "IsSubscribedApp": "55 8B EC 83 EC ?? 83 7D 08 00 57 8B F9 7D ?? B0 01 5F 8B E5 5D C2 04",
     "GetDLCDataByIndex": "55 8B EC 83 7D 10 00 8B C1 53",
     "SharedLibraryLockStatus": "55 8B EC 83 EC ?? 53 56 89 4D FC 8D",

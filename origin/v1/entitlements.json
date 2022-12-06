@@ -723,174 +723,32 @@
         "___downloadable": "False"
     },
     {
-        "___name": "Need for Speed™ Rivals Complete Movie Pack",
-        "entitlementTag": "NFS14_DLC_MOVIEPACK",
+        "___name": "Preorder bonuses",
+        "entitlementTag": "NFS22_PREORDER_CONTENT",
         "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "Origin.OFR.50.0000418",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/need-for-speed-rivals-complete-movie-pack",
-        "___description": "Tear up the streets of Redview County in the hottest cars from the “Need for Speed” movie. The Movie Bundle contains both cop and racer versions of the GTA Spano and the Lamborghini Sesto Elemento. Plus, the pack also has the Mercedes-Benz McLaren SLR 722 Edition as a Cop and the Mercedes-Benz McLaren SLR Roadster 722 S as a Racer. With these powerful machines from the movie, the open road has never been so enticing.",
-        "___downloadable": "False"
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0004477"
     },
     {
-        "___name": "Need for Speed™ Rivals Track Day Livery for Porsche 911 GT3",
-        "entitlementTag": "NFS14_PROMO_LIVERYTRAKDAY",
+        "___name": "Palace Edition bonuses",
+        "entitlementTag": "NFS22_DELUXE_EDITION_CONTENT",
         "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "OFB-EAST:109551868",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/need-for-speed-rivals-track-day-livery-for-porsche-911-gt3",
-        "___description": "Designed for the race track and released onto the roads of Redview County, the Porsche 911 GT3 Track Day Livery combines race-inspired black, grey, and red decals that complement your personalization color to create a look the cops will find hard to miss.",
-        "___downloadable": "False"
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0004475"
     },
     {
-        "___name": "Need for Speed™ Rivals Ferrari Edizioni Speciali Complete Pack",
-        "entitlementTag": "NFS14_DLC_FERRARI",
+        "___name": "Palace Edition upgrade (?)",
+        "entitlementTag": "NFS22_DELUXE_UPGRADE",
         "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "Origin.OFR.50.0000414",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/need-for-speed-rivals-ferrari-edizioni-speciali-complete-pack",
-        "___description": "Take down Racers, stay one step ahead of the cops and beat your Rivals with the Ferrari Edizioni Speciali bundle. Includes both Cop and Racer versions of these Extreme Machines - The Ferrari F40 and the Ferrari F50",
-        "___downloadable": "False"
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0004476"
     },
     {
-        "___name": "Need for Speed™ Rivals VIP Matte Livery for Aston Martin Vanquish",
-        "entitlementTag": "NFS14_PROMO_LIVERYVPMATTE",
+        "___name": "Keys to the City (future DLC?)",
+        "entitlementTag": "NFS22_KEYSTOTHECITY_CONTENT",
         "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "OFB-EAST:109551866",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/need-for-speed-rivals-vip-matte-livery-for-aston-martin-vanquish",
-        "___description": "Combining classic elegance with a renegade racing streak, the VIP Matte Kit Livery for the Aston Martin Vanquish looks like nothing else.  Matte Black paintwork combines with a gloss black stripe and acid green detailing to create a look that is both classic and contemporary.",
-        "___downloadable": "False"
-    },
-    {
-        "___name": "Ultimate Cop Pack",
-        "entitlementTag": "NFS14_PROMO_COP",
-        "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "OFB-EAST:109550835",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/ultimate-cop-pack",
-        "___description": "Organize the chaos and raise the stakes on rival racers with the Ultimate Cop Pack.  Get access to a powerful collection of items, including the Nissan GT-R Black Edition cop car, advanced pursuit technology, and a custom livery.  Dominate and bust racers on the action-packed streets of Redview County from day one.",
-        "___downloadable": "False"
-    },
-    {
-        "___name": "Need for Speed™ Rivals Loaded Garage Pack",
-        "entitlementTag": "NFS14_LOADED_GARAGE",
-        "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "Origin.OFR.50.0000368",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/need-for-speed-rivals-loaded-garage-pack",
-        "___description": "The Loaded Garage Pack gives you access to the Nissan GT-R Black Edition &amp; SRT Viper TA, and liveries previously only available with pre-orders of Need for Speed™ Rivals. Included in this purchase are the Ultimate Cop Pack, Ultimate Racer Pack, Premium Livery Pack, Classic Muscle Livery, Track Day Livery, VIP Matte Kit Livery and Digital Revolution Livery.",
-        "___downloadable": "False"
-    },
-    {
-        "___name": "Need for Speed™ Rivals Classic Muscle Livery for the Dodge Challenger SRT8",
-        "entitlementTag": "NFS14_PROMO_LIVERYMUSCOM",
-        "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "OFB-EAST:109551869",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/need-for-speed-rivals-classic-muscle-livery-for-the-dodge-challenger-srt8",
-        "___description": "Inspired by the 70's racing scene, the Classic Muscle Livery combines bold numbering, timeless branding and vintage stripes to create the authentic street racing look for the Dodge Challenger SRT8.",
-        "___downloadable": "False"
-    },
-    {
-        "___name": "Need for Speed™ Rivals Simply Jaguar Complete Pack",
-        "entitlementTag": "NFS14_DLC_JAGUAR",
-        "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "Origin.OFR.50.0000417",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/need-for-speed-rivals-simply-jaguar-complete-pack",
-        "___description": "Take down Racers, stay one step ahead of the cops and beat your Rivals with the Simply Jaguar bundle. Includes both Cop and Racer versions of the Jaguar C-X75, the most advanced Jaguar ever created and the Jaguar XJ220 the world’s first hypercar.",
-        "___downloadable": "False"
-    },
-    {
-        "___name": "Need for Speed™ Rivals Concept Lamborghini Complete Pack",
-        "entitlementTag": "NFS14_DLC_LAMBOPACK",
-        "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "Origin.OFR.50.0000415",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/need-for-speed-rivals-concept-lamborghini-complete-pack",
-        "___description": "Take down Racers, stay one step ahead of the cops and beat your Rivals with the Concept Lamborghini bundle. Includes both Cop and Racer versions of the astonishing  Lamborghini Gallardo LP 570-4 Super Trofeo and the simply stunning Lamborghini Miura Concept.",
-        "___downloadable": "False"
-    },
-    {
-        "___name": "Need for Speed™ Rivals Ultimate Racer Pack",
-        "entitlementTag": "NFS14_PROMO_RACER",
-        "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "OFB-EAST:109551867",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/need-for-speed-rivals-ultimate-racer-pack",
-        "___description": "Get ahead of the pack with the cutting edge Ultimate Racer Pack.  This pack puts you in the driver's seat of the SRT Viper Time Attack along with the custom 'Colorful Dream' livery and a bonus allotment of banked Speedpoints.",
-        "___downloadable": "False"
-    },
-    {
-        "___name": "Speed Points",
-        "entitlementTag": "NFS14_PROMO_SPBOOST",
-        "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "Origin.OFR.50.0000164",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/speed-points",
-        "___description": "As a Racer, your Speed Points allow you to unlock new personalization options like decals, paint colors, wheel options and create a car that’s as unique as your driving style. With this bonus allotment of Speed Points in the Digital Deluxe edition, you can get to personalizing your car with additional items, upgrading your Pursuit Technology, or juicing up the performance before ever setting wheels to the road.",
-        "___downloadable": "False"
-    },
-    {
-        "___name": "Digital Revolution Livery BMW M3 GTS",
-        "entitlementTag": "NFS14_PROMO_LIVERYDIGIREV",
-        "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "OFB-EAST:109551870",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/digital-revolution-livery-bmw-m3-gts",
-        "___description": "Set against an Anthracite Grey finish, Digital Revolution shouts it out with full length black and white pixel-art stripes across the roof and sides of the car.",
-        "___downloadable": "False"
-    },
-    {
-        "___name": "Need for Speed™ Rivals Koenigsegg One:1",
-        "entitlementTag": "NFS14_DLC_KOENIGSEGG",
-        "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "Origin.OFR.50.0000437",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/need-for-speed-rivals-koenigsegg-one-1",
-        "___description": "The Koenigsegg One:1 is in a category of its own. It's not a Supercar, not a Hypercar, It's a One:1. The name refers to the almost impossible and highly sought after ratio of one horsepower per kilogram. Nothing can challenge it. In short: it's the fastest, most powerful and most agile production car ever conceived <br>-And it's registered for road use<br>",
-        "___downloadable": "False"
-    },
-    {
-        "___name": "Need for Speed™ Rivals: Complete Edition Bundle Pack",
-        "entitlementTag": "NFS14_DLC_COMPLETE",
-        "entitlementType": "DEFAULT",
-        "groupName": "NFS14PC",
-        "productId": "Origin.OFR.50.0000687",
-        "___url": "/need-for-speed/need-for-speed-rivals/addon/need-for-speed-rivals-complete-edition-bundle-pack",
-        "___description": "Additional Packs included in this bundle:<br> Simply Jaguar Complete Pack<br> Ferrari Edizioni Speciali Complete Pack<br> Concept Lamborghini Complete Pack<br> The Koenigsegg Agera One<br> Complete Movie Pack<br> Loaded Garage Pack<br><br>  Please note: This bundle requires the full Need for Speed™ Rivals game.<br><br>",
-        "___downloadable": "False"
-    },
-    {
-        "___name": "Need for Speed™ Rivals",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "OFB-EAST:56522",
-        "___url": "/need-for-speed/need-for-speed-rivals/standard-edition",
-        "___description": "Erase the line between single player and multiplayer in this street-racing rivalry between Cops and Racers. Seamlessly join a world where your friends are already racing and chasing. Forget isolated game modes. There are no lobbies; no waiting. You and your friends can all share the same race as paths cross and experiences merge.<br><br><b>Key features:</b><br><b>• All-drive:</b>&nbsp;Imagine your race and your friend’s pursuit colliding—creating a world where no two events feel the same. Don’t want to play with others? Then simply choose to make Redview County yours alone and dominate the advanced Racer and Cop AI.<br><br><b>• High-stakes rivalry:</b>&nbsp;Racers are lone wolves out for glory; driving agile cars built for high-speed racing and epic chases. Cops work in teams to hunt down and bust racers using the full power of the police force. Switch roles whenever you like, and watch the stakes grow through a new scoring system that puts your speed points on the line.<br><br><b>• Next-gen racing:</b>&nbsp;Experience speed that you can truly feel in the fastest racing game around, powered by the Frostbite 3 engine. Every detail of the game world is rendered in stunning, high-definition graphics. Race and chase in snow, hail, rain, dust storms and heavy fog.<br><br><b>• Your car, your identity:</b>&nbsp;Personalize your cars with performance and style modifications. Power up your car with the latest upgrades in pursuit technology and personalize your bodywork with fresh paint jobs, liveries, custom license plates, rims and decals to show off your car to the world.<br><br><b>• Pursuit and evasion tech:</b>&nbsp;Use the latest pursuit tech and modifications to change your pursuit or escape strategy on the fly. Racers evade Cops using turbo bursts, jammers and electromagnetic pulses. Cops will be armed for aggressive busts, deploying shockwaves, spikestrips and calling in police roadblocks or helicopter support.<br>",
-        "___downloadable": "True"
-    },
-    {
-        "___name": "Need for Speed™ Rivals Digital Deluxe",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "OFB-EAST:64825",
-        "___url": "/need-for-speed/need-for-speed-rivals/digital-deluxe-edition",
-        "___description": "Erase the line between single player and multiplayer in this street-racing rivalry between Cops and Racers. Seamlessly join a world where your friends are already racing and chasing. Forget isolated game modes. There are no lobbies; no waiting. You and your friends can all share the same race as paths cross and experiences merge.<br><br><b>Key features:</b><br><b>• All-drive:</b>&nbsp;Imagine your race and your friend’s pursuit colliding—creating a world where no two events feel the same. Don’t want to play with others? Then simply choose to make Redview County yours alone and dominate the advanced Racer and Cop AI.<br><br><b>• High-stakes rivalry:</b>&nbsp;Racers are lone wolves out for glory; driving agile cars built for high-speed racing and epic chases. Cops work in teams to hunt down and bust racers using the full power of the police force. Switch roles whenever you like, and watch the stakes grow through a new scoring system that puts your speed points on the line.<br><br><b>• Next-gen racing:</b>&nbsp;Experience speed that you can truly feel in the fastest racing game around, powered by the Frostbite 3 engine. Every detail of the game world is rendered in stunning, high-definition graphics. Race and chase in snow, hail, rain, dust storms and heavy fog.<br><br><b>• Your car, your identity:</b>&nbsp;Personalize your cars with performance and style modifications. Power up your car with the latest upgrades in pursuit technology and personalize your bodywork with fresh paint jobs, liveries, custom license plates, rims and decals to show off your car to the world.<br><br><b>• Pursuit and evasion tech:</b>&nbsp;Use the latest pursuit tech and modifications to change your pursuit or escape strategy on the fly. Racers evade Cops using turbo bursts, jammers and electromagnetic pulses. Cops will be armed for aggressive busts, deploying shockwaves, spikestrips and calling in police roadblocks or helicopter support.<br>",
-        "___downloadable": "True"
-    },
-    {
-        "___name": "Need for Speed™ Rivals: Complete Edition",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ORIGIN_DOWNLOAD",
-        "groupName": "",
-        "productId": "Origin.OFR.50.0000676",
-        "___url": "/need-for-speed/need-for-speed-rivals/complete-edition",
-        "___description": "Own the complete Need for Speed Rivals experience. Get the full game, plus all six downloadable content packs with the Complete Edition.<br><br><b>Key features:</b><br><br><b>Six additional packs.</b>  Get the Simply Jaguar Complete Pack, the Ferrari Edizioni Speciali Complete Pack, the Concept Lamborghini Complete Pack, the Koenigsegg Agera One, the Complete Movie Pack, and the Loaded Garage Pack.<br><br><b>Race with friends.</b> Imagine your race and your friend’s pursuit colliding—creating a world where no two events feel the same. Don’t want to play with others? Simply choose to make Redview County yours alone and dominate the advanced Racer and Cop AI.<br><br><b>High-stakes rivalry.</b> Racers are lone wolves out for glory; driving agile cars built for high-speed racing and epic chases. Cops work in teams to hunt down and bust racers using the full power of the police force. Switch roles whenever you like, and watch the stakes grow through a new scoring system that puts your speed points on the line.<br><br><b>Your car, your identity.</b> Personalize your cars with performance and style modifications. Power up your car with the latest upgrades in pursuit technology and personalize your bodywork with fresh paint jobs, liveries, custom license plates, rims and decals to show off your car to the world.<br><br><b>Pursuit and evasion tech.</b> Use the latest pursuit tech and modifications to change your pursuit or escape strategy on the fly. Racers evade Cops using turbo bursts, jammers and electromagnetic pulses. Cops will be armed for aggressive busts, deploying shockwaves, spike strips and calling in police roadblocks or helicopter support.",
-        "___downloadable": "True"
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0004474"
     },
     {
         "___name": "Northgard - Svafnir, Clan of the Snake",
@@ -1275,8 +1133,7 @@
         "entitlementTag": "Sims4HolidayObjectsBundle_0x000000000001266C:75372",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x000000000001266C",
-        "___v1only": true
+        "productId": "SIMS4.OFF.SOLP.0x000000000001266C"
     },
     {
         "___name": "The Sims™ 4 Outdoor Retreat",
@@ -1872,6 +1729,27 @@
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x000000000004E9E7"
+    },
+    {
+        "___name": "The Sims™ 4 Desert Luxe Kit",
+        "entitlementTag": "SP35_DesertLuxury_0x000000000004E9E8:322024",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000004E9E8"
+    },
+    {
+        "___name": "The Sims™ 4 Pastel Pop Kit",
+        "entitlementTag": "SP36_PastelPopKit_0x0000000000050752:329554",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000050752"
+    },
+    {
+        "___name": "The Sims™ 4 Everyday Clutter Kit",
+        "entitlementTag": "SP37_EverydayClutterKit_0x0000000000050753:329555",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000050753"
     },
     {
         "___name": "The Sinking City - Investigator Pack",

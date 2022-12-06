@@ -1,4 +1,20 @@
 {
+  "3352|3360": {
+    "name": "UNO",
+    "dlcs": [
+      3765, // UNO - Rayman Theme Cards
+      3766, // UNO - Just Dance Theme Cards
+      3776, // UNO - Winter Theme Cards
+      16383, // UNO - Flip Theme Cards
+      17860, // UNO - Fenyx's Quest Theme Cards
+      17942, // UNO - 50th Anniversary Theme Cards
+      59689, // UNO - The Call of Yara Theme Cards
+      60710 // UNO - AC Valhalla Theme Cards
+    ],
+    "items": [
+      61887
+    ]
+  },
   "3353": {
     "name": "Watch Dogs: Legion",
     "dlcs": [
