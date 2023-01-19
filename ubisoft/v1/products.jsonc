@@ -66,7 +66,7 @@
       5446, // Anno 1800 - Twitch Drop - Flag Banner - Annoholic
       5447, // Anno 1800 - Twitch Drop - Flag Banner - Anno Union
       5448, // Anno 1800 - Twitch Drop - Morris Column - Annoholic
-      5560, // Anno 1800 DLC - Christmas
+      5560, // Anno 1800 CDLC 01 - Holiday
       5800, // Anno 1800 DLC - Charity Tree
       12104, // Anno 1800 Company Logos
       12165, // LanguagePackEnglish
@@ -102,14 +102,14 @@
       17031, // Anno 1503 History Edition Company Logo
       17032, // Anno 1701 History Edition Company Logo
       17033, // Anno 1404 History Edition Company Logo
-      17316, // Anno 1800 DLC - Amusement Park
-      17627, // Anno 1800 DLC - City Lights
+      17316, // Anno 1800 CDLC 02 - Amusement Park
+      17627, // Anno 1800 CDLC 03 - City Lights
       17794, // Anno 1800 DLC - Docklands
       17795, // Anno 1800 DLC - Tourism
       17796, // Anno 1800 DLC - HighLife
-      17797, // Anno 1800 DLC - Skin Pack 1 (CDLC04)
-      17798, // Anno 1800 DLC - Pedestrian Zone (CDLC05)
-      17799, // Anno 1800 DLC - CDLC06
+      17797, // Anno 1800 CDLC 04 - Vehicle Liveries
+      17798, // Anno 1800 CDLC 05 - Pedestrian Zone
+      17799, // Anno 1800 CDLC 06 - Vibrant City
       17804, // Anno 1800 - Season 3 Pass Reward
       17806, // Anno 1800 - Twitch Drop - DockLands 1
       17807, // Anno 1800 - Twitch Drop - DockLands 2
@@ -125,9 +125,9 @@
       60440, // Anno 1800 DLC - Seeds of Change
       60673, // Anno 1800 DLC - Empire of the Skies
       60681, // Anno 1800 DLC - New World Rising
-      60682, // Anno 1800 DLC - "Seasonal Decorations Pack
-      60683, // Anno 1800 DLC - CDLC08
-      60684, // Anno 1800 DLC - CDLC09
+      60682, // Anno 1800 CDLC 07 - Seasonal Decorations
+      60683, // Anno 1800 CDLC 08 - Industrial Zone
+      60684, // Anno 1800 CDLC 09 - Old Town
       60685, // Anno 1800 - Season 4 Bonus Content
       60686, // Anno 1800 - Twitch Drop - DLC10 Flag
       60687, // Anno 1800 - Twitch Drop - DLC10 Billboard
@@ -135,7 +135,8 @@
       60689, // Anno 1800 - Twitch Drop - DLC11 Billboard
       60690, // Anno 1800 - Twitch Drop - DLC12 Flag
       60691, // Anno 1800 - Twitch Drop - DLC12 Billboard
-      60692 // Anno 1800 - Refer-a-Friend
+      60692, // Anno 1800 - Refer-a-Friend
+      62488 // Anno 1800 CDLC 10 - Dragon Garden
     ],
     "items": []
   },
