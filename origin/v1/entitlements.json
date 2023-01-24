@@ -1752,6 +1752,20 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000050753"
     },
     {
+        "___name": "The Sims™ 4 Simtimates Collection Kit",
+        "entitlementTag": "SP38_SimtimatesCollectionKit_0x0000000000052633:337459",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000052633"
+    },
+    {
+        "___name": "The Sims™ 4 Bathroom Clutter Kit",
+        "entitlementTag": "SP39_BathroomClutterKit_0x0000000000052C6F:339055",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000052C6F"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
