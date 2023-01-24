@@ -267,7 +267,7 @@
       18009,
       18020,
       18031,
-      19028,
+      19028, // Enable offline mode
       58168,
       58881,
       59360,
@@ -343,7 +343,7 @@
       60856,
       61245,
       61246,
-      61404,
+      61404, // Lost Between Worlds DLC
       61682,
       61749,
       61750,
@@ -464,35 +464,36 @@
   "13504|7013": {
     "name": "Assassin's Creed: Valhalla",
     "dlcs": [
-      5607,
-      5625,
-      5626,
-      5627,
-      5628,
-      5629,
-      5630,
-      5631,
-      5632,
-      5633,
-      5634,
-      5635,
-      5636,
-      5637,
+      5606, // DLC: The Legend of Beowulf
+      5607, // DLC: Wrath of the Druids
+      5625, // Language Pack: fr-FR
+      5626, // Language Pack: it-IT
+      5627, // Language Pack: de-DE
+      5628, // Language Pack: es-ES
+      5629, // Language Pack: ru-RU
+      5630, // Language Pack: pt-BR
+      5631, // Language Pack: ja-JP
+      5632, // Language Pack: pl-PL
+      5633, // Language Pack: ar-AA
+      5634, // Language Pack: es-MX
+      5635, // Language Pack: zh-TW
+      5636, // Language Pack: zh-CN
+      5637, // Language Pack: ko-KO
       5638,
-      5639,
-      5640,
-      5641,
-      5676,
-      5691,
-      5692,
-      5693,
-      5694,
+      5639, // DLC: Berserker Pack
+      5640, // DLC: Berserker Settlement Pack
+      5641, // DLC: Berserker Ship Pack
+      5676, // DLC: Season Pass
+      5691, // DLC: Set of Runes
+      5692, // Raven skin: Huginn and Muninn
+      5693, // Mount skin: Hati
+      5694, // DLC: The Siege of Paris
       5695,
       5696,
       5697,
-      5698,
+      5698, // Language Pack: en-US
       5699,
-      5725,
+      5725, // DLC: Premium Starter Pack
       16915,
       16916,
       16917,
@@ -553,8 +554,8 @@
       59571,
       59590,
       59625,
-      59884,
-      59885,
+      59884, // DLC: Dawn of Ragnarök
+      59885, // DLC: Twilight Pack
       61148,
       61149,
       61150,
