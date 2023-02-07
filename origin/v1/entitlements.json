@@ -206,6 +206,22 @@
         "___v1only": true
     },
     {
+        "___name": "<unknown>",
+        "entitlementTag": "DELUXE_UPGRADE",
+        "entitlementType": "DEFAULT",
+        "groupName": "BEYONDPC",
+        "productId": "Origin.OFR.50.0005118",
+        "version": "1"
+    },
+    {
+        "___name": "<unknown>",
+        "entitlementTag": "EA_PLAY_PRO_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "BEYONDPC",
+        "productId": "Origin.OFR.50.0005144",
+        "version": "1"
+    },
+    {
         "___name": "Awakened",
         "entitlementTag": "DS3:PDLC_DLC1",
         "entitlementType": "DEFAULT",
