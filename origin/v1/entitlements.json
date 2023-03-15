@@ -1769,7 +1769,7 @@
     },
     {
         "___name": "The Sims™ 4 Simtimates Collection Kit",
-        "entitlementTag": "SP38_SimtimatesCollectionKit_0x0000000000052633:337459",
+        "entitlementTag": "SP38_ModernLoungewearKit_0x0000000000052633:337459",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x0000000000052633"
@@ -1780,6 +1780,20 @@
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x0000000000052C6F"
+    },
+    {
+        "___name": "The Sims™ 4 Growing Together (preorder)",
+        "entitlementTag": "EP13_PrePurchase_0x00000000000530C0:340160",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000530C0"
+    },
+    {
+        "___name": "The Sims™ 4 Growing Together (preorder only)",
+        "entitlementTag": "EP13_IncentiveItems_0x00000000000530BF:340159",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000530BF"
     },
     {
         "___name": "The Sinking City - Investigator Pack",
