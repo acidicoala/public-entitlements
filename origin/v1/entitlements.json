@@ -1796,6 +1796,20 @@
         "productId": "SIMS4.OFF.SOLP.0x00000000000530BF"
     },
     {
+        "___name": "The Sims™ 4 Greenhouse Haven Kit",
+        "entitlementTag": "SP40_GreenhouseHavenKit_0x0000000000056640:353856",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000056640"
+    },
+    {
+        "___name": "The Sims™ 4 Basement Treasures Kit",
+        "entitlementTag": "SP41_BasementTreasuresKit_0x0000000000056641:353857",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000056641"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
