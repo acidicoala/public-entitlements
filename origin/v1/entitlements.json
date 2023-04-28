@@ -816,6 +816,20 @@
         "productId": "Origin.OFR.50.0004614"
     },
     {
+        "___name": "Preorder bonuses",
+        "entitlementTag": "APPLEJACK_PREORDER_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "APPLEJACKPC",
+        "productId": "Origin.OFR.50.0005115"
+    },
+    {
+        "___name": "Deluxe bonuses",
+        "entitlementTag": "APPLEJACK_DELUXE_UPGRADE",
+        "entitlementType": "DEFAULT",
+        "groupName": "APPLEJACKPC",
+        "productId": "Origin.OFR.50.0005116"
+    },
+    {
         "___name": "SimCity (2013) Standard Edition",
         "entitlementTag": "ORIGIN_DOWNLOAD",
         "entitlementType": "ORIGIN_DOWNLOAD",
