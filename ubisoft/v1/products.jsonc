@@ -136,7 +136,8 @@
       60690, // Anno 1800 - Twitch Drop - DLC12 Flag
       60691, // Anno 1800 - Twitch Drop - DLC12 Billboard
       60692, // Anno 1800 - Refer-a-Friend
-      62488 // Anno 1800 CDLC 10 - Dragon Garden
+      62488,// Anno 1800 CDLC 10 - Dragon Garden
+      62613 // Anno 1800 CDLC 11 - Fiesta Time
     ],
     "items": []
   },
