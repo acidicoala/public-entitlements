@@ -376,6 +376,27 @@
         "productId": "Origin.OFR.50.0004921"
     },
     {
+        "___name": "<unknown>",
+        "entitlementTag": "F23_Deluxe_Preorder_Content",
+        "entitlementType": "DEFAULT",
+        "groupName": "F1-2023PC",
+        "productId": "Origin.OFR.50.0005199"
+    },
+    {
+        "___name": "<unknown>",
+        "entitlementTag": "F23_Deluxe_Content_Pack",
+        "entitlementType": "DEFAULT",
+        "groupName": "F1-2023PC",
+        "productId": "Origin.OFR.50.0005201"
+    },
+    {
+        "___name": "<unknown>",
+        "entitlementTag": "F23_Deluxe_Content_Bundle",
+        "entitlementType": "DEFAULT",
+        "groupName": "F1-2023PC",
+        "productId": "Origin.OFR.50.0005233"
+    },
+    {
         "___name": "Frostpunk - The Rifts",
         "entitlementTag": "FROSTPUNK_DLC_1",
         "entitlementType": "DEFAULT",
