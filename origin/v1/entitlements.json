@@ -1224,6 +1224,132 @@
         "productId": "OFB-EAST:64317"
     },
     {
+        "___name": "Life of the Party Digital Content",
+        "entitlementTag": "LifeOfTheParty_0x0000000000008E14:36372",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000008E14"
+    },
+    {
+        "___name": "Up All Night Digital Content",
+        "entitlementTag": "UpAllNight_0x0000000000009AED:39661",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000009AED"
+    },
+    {
+        "___name": "Digital Deluxe Upgrade, unlocks the stuff above, included for completion",
+        "entitlementTag": "DigitalDeluxeUpgrade_0x000000000000AB5C:43868",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000000AB5C"
+    },
+    {
+        "___name": "P.R.I.M.A. 3000 computer (Collector's Edition Exclusive)",
+        "entitlementTag": "Prima_0x0000000000007BC5:31685",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000007BC5"
+    },
+    {
+        "___name": "Grim's Ghoulish Guitar (email subscription bonus)",
+        "entitlementTag": "Incentive01_musicGuitar_EF0GENreaper:145262",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000002376E"
+    },
+    {
+        "___name": "The Family Portrait (The Sims Mobile bonus)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000002AEA7"
+    },
+    {
+        "___name": "Let There Be Plumbobs Award (TS3)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "OFB-EAST:55107"
+    },
+    {
+        "___name": "Never Ending World Adventures Award (TS3 EP01)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "DR:137311600"
+    },
+    {
+        "___name": "Shine On Ambitions Award (TS3 EP02)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "DR:169598400"
+    },
+    {
+        "___name": "UV Light Late Night Award (TS3 EP03)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "DR:194011300"
+    },
+    {
+        "___name": "Beacon of Ages Generations Award (TS3 EP04)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "DR:219720800"
+    },
+    {
+        "___name": "Paws Anonymous Pets Award (TS3 EP05)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "DR:234872200"
+    },
+    {
+        "___name": "Your Name in Lights Showtime Award (TS3 EP06)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "OFB-EAST:42334"
+    },
+    {
+        "___name": "Enchanted Aurora Supernatural Award (TS3 EP07)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "OFB-EAST:49019"
+    },
+    {
+        "___name": "Whatever the Weather Seasons Award (TS3 EP08)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "OFB-EAST:49463"
+    },
+    {
+        "___name": "Alma Mater University Life Award (TS3 EP09)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "OFB-EAST:109545788"
+    },
+    {
+        "___name": "Tiki Topper Island Paradise Award (TS3 EP10)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "OFB-EAST:109546946"
+    },
+    {
+        "___name": "Time Travelers Into the Future Award (TS3 EP11)",
+        "entitlementTag": "ONLINE_ACCESS",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "OFB-EAST:64320"
+    },
+    {
         "___name": "The Sims™ 4 Holiday Celebration Pack",
         "entitlementTag": "Sims4HolidayObjectsBundle_0x000000000001266C:75372",
         "entitlementType": "DEFAULT",
@@ -1238,102 +1364,11 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000011A4B"
     },
     {
-        "___name": "The Sims™ 4 Get Together",
-        "entitlementTag": "GetTogether_0x00000000000170FF:94463",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x00000000000170FF"
-    },
-    {
-        "___name": "The Sims™ 4 City Living",
-        "entitlementTag": "EP03_CityLife_0x000000000001D5ED:120301",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x000000000001D5ED"
-    },
-    {
-        "___name": "The Sims™ 4 Cats & Dogs",
-        "entitlementTag": "EP04_CatsandDogs_0x000000000002714B:160075",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x000000000002714B"
-    },
-    {
         "___name": "The Sims™ 4 Get to Work",
         "entitlementTag": "ExpansionPack1_0x0000000000011AC5:72389",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x0000000000011AC5"
-    },
-    {
-        "___name": "The Sims™ 4 Spa Day",
-        "entitlementTag": "GP02_SpaDay_0x0000000000016C2A:93226",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x0000000000016C2A"
-    },
-    {
-        "___name": "The Sims™ 4 Dine Out",
-        "entitlementTag": "GP03_Restaurants_0x000000000001C03A:114746",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x000000000001C03A"
-    },
-    {
-        "___name": "The Sims™ 4 Vampires",
-        "entitlementTag": "GP04_Vampires_0x000000000002376D:145261",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x000000000002376D"
-    },
-    {
-        "___name": "The Sims™ 4 Parenthood",
-        "entitlementTag": "GP05_FamilyFirst_0x0000000000027890:161936",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x0000000000027890"
-    },
-    {
-        "___name": "The Sims™ 4 Jungle Adventure",
-        "entitlementTag": "GP06_JungleWorld_0x000000000002B073:176243",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x000000000002B073"
-    },
-    {
-        "___name": "The Sims™ 4 Digital Soundtrack",
-        "entitlementTag": "TS4DigitalSoundtrack_0x000000000000B51A:46362",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x000000000000B51A"
-    },
-    {
-        "___name": "Up All Night Digital Content",
-        "entitlementTag": "UpAllNight_0x0000000000009AED:39661",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x0000000000009AED"
-    },
-    {
-        "___name": "Awesome Animal Hats Digital Content",
-        "entitlementTag": "OriginExclusivePack_0x00000000000098C2:39106",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x00000000000098C2"
-    },
-    {
-        "___name": "Life of the Party Digital Content",
-        "entitlementTag": "LifeOfTheParty_0x0000000000008E14:36372",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x0000000000008E14"
-    },
-    {
-        "___name": "The Sims™ 4 Digital Deluxe Upgrade",
-        "entitlementTag": "DigitalDeluxeUpgrade_0x000000000000AB5C:43868",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x000000000000AB5C"
     },
     {
         "___name": "The Sims™ 4 Luxury Party Stuff",
@@ -1350,6 +1385,13 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000016B37"
     },
     {
+        "___name": "The Sims™ 4 Spa Day",
+        "entitlementTag": "GP02_SpaDay_0x0000000000016C2A:93226",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000016C2A"
+    },
+    {
         "___name": "The Sims™ 4 Cool Kitchen Stuff",
         "entitlementTag": "SP03_CoolKitchenStuff_0x0000000000018B66:101222",
         "entitlementType": "DEFAULT",
@@ -1362,6 +1404,13 @@
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x0000000000019B59"
+    },
+    {
+        "___name": "The Sims™ 4 Get Together",
+        "entitlementTag": "GetTogether_0x00000000000170FF:94463",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000170FF"
     },
     {
         "___name": "The Sims™ 4 Movie Hangout Stuff",
@@ -1378,6 +1427,13 @@
         "productId": "SIMS4.OFF.SOLP.0x000000000001C04E"
     },
     {
+        "___name": "The Sims™ 4 Dine Out",
+        "entitlementTag": "GP03_Restaurants_0x000000000001C03A:114746",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000001C03A"
+    },
+    {
         "___name": "The Sims™ 4 Kids Room Stuff",
         "entitlementTag": "SP07_KidsRoom_0x000000000001D5F2:120306",
         "entitlementType": "DEFAULT",
@@ -1392,6 +1448,13 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000020176"
     },
     {
+        "___name": "The Sims™ 4 City Living",
+        "entitlementTag": "EP03_CityLife_0x000000000001D5ED:120301",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000001D5ED"
+    },
+    {
         "___name": "The Sims™ 4 Vintage Glamour Stuff",
         "entitlementTag": "SP09_GlamorousStuffPack_0x0000000000022C32:142386",
         "entitlementType": "DEFAULT",
@@ -1399,11 +1462,25 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000022C32"
     },
     {
+        "___name": "The Sims™ 4 Vampires",
+        "entitlementTag": "GP04_Vampires_0x000000000002376D:145261",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000002376D"
+    },
+    {
         "___name": "The Sims™ 4 Bowling Night Stuff",
         "entitlementTag": "SP10_BowlingStuff_0x0000000000027128:160040",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x0000000000027128"
+    },
+    {
+        "___name": "The Sims™ 4 Parenthood",
+        "entitlementTag": "GP05_FamilyFirst_0x0000000000027890:161936",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000027890"
     },
     {
         "___name": "The Sims™ 4 Fitness Stuff",
@@ -1420,6 +1497,13 @@
         "productId": "SIMS4.OFF.SOLP.0x000000000002A4FE"
     },
     {
+        "___name": "The Sims™ 4 Cats & Dogs",
+        "entitlementTag": "EP04_CatsandDogs_0x000000000002714B:160075",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000002714B"
+    },
+    {
         "___name": "The Sims™ 4 Laundry Day Stuff",
         "entitlementTag": "SP13_LaundryStuff_0x000000000002CA06:182790",
         "entitlementType": "DEFAULT",
@@ -1427,18 +1511,11 @@
         "productId": "SIMS4.OFF.SOLP.0x000000000002CA06"
     },
     {
-        "___name": "<unknown>",
-        "entitlementTag": "Incentive01_musicGuitar_EF0GENreaper:145262",
+        "___name": "The Sims™ 4 Jungle Adventure",
+        "entitlementTag": "GP06_JungleWorld_0x000000000002B073:176243",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x000000000002376E"
-    },
-    {
-        "___name": "<unknown>",
-        "entitlementTag": "Prima_0x0000000000007BC5:31685",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x0000000000007BC5"
+        "productId": "SIMS4.OFF.SOLP.0x000000000002B073"
     },
     {
         "___name": "The Sims™ 4 My First Pet Stuff",
@@ -1502,139 +1579,6 @@
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x000000000003A92D"
-    },
-    {
-        "___name": "<unknown>",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ONLINE_ACCESS",
-        "groupName": "",
-        "productId": "OFB-EAST:48217"
-    },
-    {
-        "___name": "The Sims™ 4 Digital Soundtrack",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ONLINE_ACCESS",
-        "groupName": "",
-        "productId": "SIMS4.OFF.SOLP.0x000000000000B51A"
-    },
-    {
-        "___name": "The Sims™ 4",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ONLINE_ACCESS",
-        "groupName": "",
-        "productId": "OFB-EAST:109552299"
-    },
-    {
-        "___name": "<unknown>",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ONLINE_ACCESS",
-        "groupName": "",
-        "productId": "DR:225126100"
-    },
-    {
-        "___name": "The Sims™ 4 Create A Sim Demo",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ONLINE_ACCESS",
-        "groupName": "",
-        "productId": "OFB-EAST:109551057"
-    },
-    {
-        "___name": "<unknown>",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ONLINE_ACCESS",
-        "groupName": "",
-        "productId": "SIMS4.OFF.SOLP.0x000000000000E38E"
-    },
-    {
-        "___name": "<unknown>",
-        "entitlementTag": "ORIGIN_DOWNLOAD",
-        "entitlementType": "ONLINE_ACCESS",
-        "groupName": "",
-        "productId": "SIMS4.OFF.SOLP.0x0000000000023F8C"
-    },
-    {
-        "___name": "The Sims™ 3 Expansion Bundle",
-        "entitlementTag": "ONLINE_ACCESS",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "DR:284184500"
-    },
-    {
-        "___name": "The Sims™ 3",
-        "entitlementTag": "ONLINE_ACCESS",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "OFB-EAST:55107"
-    },
-    {
-        "___name": "The Sims™ 3 University Life",
-        "entitlementTag": "ONLINE_ACCESS",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "OFB-EAST:109545788"
-    },
-    {
-        "___name": "The Sims™ 3 Island Paradise",
-        "entitlementTag": "ONLINE_ACCESS",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "OFB-EAST:109546946"
-    },
-    {
-        "___name": "The Sims™ 3 Into the Future Limited Edition",
-        "entitlementTag": "ONLINE_ACCESS",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "OFB-EAST:109550229"
-    },
-    {
-        "___name": "The Sims™ 3 Showtime",
-        "entitlementTag": "ONLINE_ACCESS",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "OFB-EAST:42334"
-    },
-    {
-        "___name": "The Sims™ 3 Supernatural",
-        "entitlementTag": "ONLINE_ACCESS",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "OFB-EAST:49019"
-    },
-    {
-        "___name": "The Sims™ 3 Seasons",
-        "entitlementTag": "ONLINE_ACCESS",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "OFB-EAST:49463"
-    },
-    {
-        "___name": "The Sims™ 3 Ambitions",
-        "entitlementTag": "ONLINE_ACCESS",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "DR:169598400"
-    },
-    {
-        "___name": "The Sims™ 3 Late Night Expansion Pack",
-        "entitlementTag": "ONLINE_ACCESS",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "DR:194011300"
-    },
-    {
-        "___name": "<unknown>",
-        "entitlementTag": "ONLINE_ACCESS",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "DR:230842700"
-    },
-    {
-        "___name": "<unknown>",
-        "entitlementTag": "ONLINE_ACCESS",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x000000000002AEA7"
     },
     {
         "___name": "The Sims™ 4 Eco Lifestyle",
@@ -1707,18 +1651,18 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000040A01"
     },
     {
-        "___name": "The Sims™ 4 Gnome on the Go - Cottage Living Preorder Bonus",
-        "entitlementTag": "GnomeOnTheGo_CLPreorderBonus:283880",
-        "entitlementType": "DEFAULT",
-        "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x00000000000454E8"
-    },
-    {
         "___name": "The Sims™ 4 Cottage Living",
         "entitlementTag": "EP11_CottageLiving_0x00000000000405E6:263654",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x00000000000405E6"
+    },
+    {
+        "___name": "The Sims™ 4 Cottage Living (bonuses only)",
+        "entitlementTag": "GnomeOnTheGo_CLPreorderBonus:283880",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000454E8"
     },
     {
         "___name": "The Sims™ 4 Industrial Loft Kit",
@@ -1812,7 +1756,7 @@
         "productId": "SIMS4.OFF.SOLP.0x000000000004AAD0"
     },
     {
-        "___name": "The Sims™ 4 High School Years (preorder only)",
+        "___name": "The Sims™ 4 High School Years (bonuses only)",
         "entitlementTag": "EP12_IncentiveItems_0x000000000004AAD1:305873",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
@@ -1861,6 +1805,13 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000052C6F"
     },
     {
+        "___name": "The Sims™ 4 Growing Together (normal)",
+        "entitlementTag": "EP13_SeasonsOfLife_0x000000000004DBB0:318384",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000004DBB0"
+    },
+    {
         "___name": "The Sims™ 4 Growing Together (preorder)",
         "entitlementTag": "EP13_PrePurchase_0x00000000000530C0:340160",
         "entitlementType": "DEFAULT",
@@ -1868,7 +1819,7 @@
         "productId": "SIMS4.OFF.SOLP.0x00000000000530C0"
     },
     {
-        "___name": "The Sims™ 4 Growing Together (preorder only)",
+        "___name": "The Sims™ 4 Growing Together (bonuses only)",
         "entitlementTag": "EP13_IncentiveItems_0x00000000000530BF:340159",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
@@ -1890,7 +1841,7 @@
     },
     {
         "___name": "The Sims™ 4 Grunge Revival Kit",
-        "entitlementTag": "SP42_GrungeRevivalKit_0x00000000000574B3:357555",
+        "entitlementTag": "SP42_VintageGrungeKit_0x00000000000574B3:357555",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x00000000000574B3"
@@ -1901,6 +1852,27 @@
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x00000000000574B4"
+    },
+    {
+        "___name": "The Sims™ 4 Horse Ranch (normal)",
+        "entitlementTag": "EP14_HorseRanch_0x000000000004F3B5:324533",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000004F3B5"
+    },
+    {
+        "___name": "The Sims™ 4 Horse Ranch (preorder)",
+        "entitlementTag": "EP14_PrePurchase_0x0000000000057E0A:359946",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000057E0A"
+    },
+    {
+        "___name": "The Sims™ 4 Horse Ranch (bonuses only)",
+        "entitlementTag": "EP14_IncentiveItems_0x0000000000057E09:359945",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000057E09"
     },
     {
         "___name": "The Sinking City - Investigator Pack",
