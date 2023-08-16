@@ -809,6 +809,27 @@
         "productId": "Origin.OFR.50.0005218"
     },
     {
+        "___name": "Vol.4 Customs Pack",
+        "entitlementTag": "NFS22_EPICCUSTOMSVOL4_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005219"
+    },
+    {
+        "___name": "Hip Hop Origin Swag Pack",
+        "entitlementTag": "NFS22_LEGENDARYTHEMEVOL4_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005220"
+    },
+    {
+        "___name": "Lotus Exige S Legendary Custom Pack",
+        "entitlementTag": "NFS22_SPEEDPASSVOL4_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005221"
+    },
+    {
         "___name": "Northgard - Svafnir, Clan of the Snake",
         "entitlementTag": "NORTHGARD_HCOTS",
         "entitlementType": "DEFAULT",
