@@ -1896,6 +1896,20 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000057E09"
     },
     {
+        "___name": "The Sims™ 4 Poolside Splash Kit",
+        "entitlementTag": "SP44_PoolsideSplashKit_0x000000000005A5A4:370084",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000005A5A4"
+    },
+    {
+        "___name": "The Sims™ 4 Modern Luxe Kit",
+        "entitlementTag": "SP45_ModernLuxeKit_0x000000000005A5A5:370085",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000005A5A5"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
