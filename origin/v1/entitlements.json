@@ -920,7 +920,8 @@
         "entitlementTag": "ORIGIN_DOWNLOAD",
         "entitlementType": "ORIGIN_DOWNLOAD",
         "groupName": "",
-        "productId": "OFB-EAST:60108"
+        "productId": "OFB-EAST:60108",
+        "___options": "+mac"
     },
     {
         "___name": "SimCity (2013) Complete Edition",
@@ -1109,7 +1110,8 @@
         "entitlementTag": "ORIGIN_DOWNLOAD",
         "entitlementType": "ORIGIN_DOWNLOAD",
         "groupName": "",
-        "productId": "DR:137311600"
+        "productId": "DR:137311600",
+        "___options": "+mac"
     },
     {
         "___name": "EP02: Ambitions",
@@ -1249,7 +1251,8 @@
         "entitlementTag": "LifeOfTheParty_0x0000000000008E14:36372",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
-        "productId": "SIMS4.OFF.SOLP.0x0000000000008E14"
+        "productId": "SIMS4.OFF.SOLP.0x0000000000008E14",
+        "___options": "+mac"
     },
     {
         "___name": "Up All Night Digital Content",
@@ -1956,7 +1959,8 @@
         "entitlementTag": "THE_SURGE_CSEK",
         "entitlementType": "DEFAULT",
         "groupName": "OPP",
-        "productId": "Origin.OFR.50.0002257"
+        "productId": "Origin.OFR.50.0002257",
+        "___options": "3"
     },
     {
         "___name": "A Walk in the Park",
@@ -2019,7 +2023,8 @@
         "entitlementTag": "TROPICO_6_DLC_1",
         "entitlementType": "DEFAULT",
         "groupName": "OPP",
-        "productId": "Origin.OFR.50.0003573"
+        "productId": "Origin.OFR.50.0003573",
+        "___options": "5"
     },
     {
         "___name": "Tropico 6 - Spitter DLC",
