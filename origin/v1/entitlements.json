@@ -830,6 +830,27 @@
         "productId": "Origin.OFR.50.0005221"
     },
     {
+        "___name": "Vol.5 Customs Pack",
+        "entitlementTag": "NFS22_EPICCUSTOMSVOL5_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005222"
+    },
+    {
+        "___name": "Trick or Street Swag Pack",
+        "entitlementTag": "NFS22_LEGENDARYTHEMEVOL5_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005223"
+    },
+    {
+        "___name": "Volkswagen Beetle (1963) Legendary Custom Pack",
+        "entitlementTag": "NFS22_SPEEDPASSVOL5_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005224"
+    },
+    {
         "___name": "Northgard - Svafnir, Clan of the Snake",
         "entitlementTag": "NORTHGARD_HCOTS",
         "entitlementType": "DEFAULT",
