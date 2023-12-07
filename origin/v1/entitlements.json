@@ -1949,10 +1949,31 @@
     },
     {
         "___name": "The Sims™ 4 Home Chef Hustle Stuff Pack",
-        "entitlementTag": "SP46_HomeChefHustleStuffPack_0x0000000000058A09:363017",
+        "entitlementTag": "SP46_HomeChefHustles_0x0000000000058A09:363017",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x0000000000058A09"
+    },
+    {
+        "___name": "The Sims™ 4 For Rent (normal)",
+        "entitlementTag": "EP15_ForRent_0x000000000005A8CE:370894",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000005A8CE"
+    },
+    {
+        "___name": "The Sims™ 4 For Rent (preorder)",
+        "entitlementTag": "EP15_PrePurchase_0x000000000005CD3D:380221",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000005CD3D"
+    },
+    {
+        "___name": "The Sims™ 4 For Rent (bonuses only)",
+        "entitlementTag": "EP15_IncentiveItems_0x000000000005CD3C:380220",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000005CD3C"
     },
     {
         "___name": "The Sinking City - Investigator Pack",
