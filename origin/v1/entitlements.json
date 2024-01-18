@@ -1976,6 +1976,20 @@
         "productId": "SIMS4.OFF.SOLP.0x000000000005CD3C"
     },
     {
+        "___name": "The Sims™ 4 Castle Estate Kit",
+        "entitlementTag": "SP47_CastleEstateKit_0x000000000005F6CC:390860",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000005F6CC"
+    },
+    {
+        "___name": "The Sims™ 4 Goth Galore Kit",
+        "entitlementTag": "SP48_GothGaloreKit_0x000000000005F6CE:390862",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000005F6CE"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
