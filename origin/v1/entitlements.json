@@ -865,6 +865,13 @@
         "productId": "Origin.OFR.50.0005373"
     },
     {
+        "___name": "Vol.6 Premium Speed Pass",
+        "entitlementTag": "NFS22_SPEEDPASSVOL6_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005426"
+    },
+    {
         "___name": "Northgard - Svafnir, Clan of the Snake",
         "entitlementTag": "NORTHGARD_HCOTS",
         "entitlementType": "DEFAULT",
