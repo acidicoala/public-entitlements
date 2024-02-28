@@ -1,7 +1,7 @@
 {
-    "IsAppDLCEnabled": "55 8B EC 83 EC ?? A1 ?? ?? ?? ?? 53 56 8B D9 83 38 00 57 89 5D E4",
-    "IsSubscribedApp": "55 8B EC 8B 45 08 83 EC ?? 85 C0 79 ?? B0 01 8B E5 5D C2 04",
-    "GetDLCDataByIndex": "55 8B EC 83 7D 10 00 8B C1 53",
-    "SharedLibraryLockStatus": "55 8B EC 83 EC 70 53 56 89",
+    "IsAppDLCEnabled": "55 8B EC 83 EC ?? A1 ?? ?? ?? ?? 53 56 8B D9 83 38 ?? 57 89 5D E4",
+    "IsSubscribedApp": "55 8B EC 8B 45 08 83 EC ?? 85 C0 79",
+    "GetDLCDataByIndex": "55 8B EC 83 7D 10 ?? 8B C1",
+    "SharedLibraryLockStatus": "55 8B EC 83 EC ?? 53 56 89 4D FC 8D 4D C8",
     "SharedLibraryStopPlaying": "55 8B EC 81 EC ?? ?? ?? ?? 53 56 57 89 4D FC 8D 4D"
 }
