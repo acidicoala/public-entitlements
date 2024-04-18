@@ -2005,10 +2005,24 @@
     },
     {
         "___name": "The Sims™ 4 Crystal Creations Stuff Pack",
-        "entitlementTag": "SP49_CrystalCreationsStuffPack_0x000000000005B63F:374335",
+        "entitlementTag": "SP49_ProjectCobalt_0x000000000005B63F:374335",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x000000000005B63F"
+    },
+    {
+        "___name": "The Sims™ 4 Urban Homage Kit",
+        "entitlementTag": "SP50_UrbanHomageKit_0x0000000000063060:405600",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000063060"
+    },
+    {
+        "___name": "The Sims™ 4 Party Essentials Kit",
+        "entitlementTag": "SP51_PartyEssentialsKit_0x0000000000063061:405601",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000063061"
     },
     {
         "___name": "The Sinking City - Investigator Pack",
