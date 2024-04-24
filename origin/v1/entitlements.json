@@ -1155,6 +1155,13 @@
         "productId": "OFB-EAST:109552719"
     },
     {
+        "___name": "Tales of Kenzera: ZAU - preorder bonuses",
+        "entitlementTag": "PREORDER_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "OLORUNPC",
+        "productId": "Origin.OFR.50.0005407"
+    },
+    {
         "___name": "EP01: World Adventures",
         "entitlementTag": "ORIGIN_DOWNLOAD",
         "entitlementType": "ORIGIN_DOWNLOAD",
