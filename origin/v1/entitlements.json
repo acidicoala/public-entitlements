@@ -764,7 +764,9 @@
         "entitlementTag": "NFS22_PREORDER_CONTENT",
         "entitlementType": "DEFAULT",
         "groupName": "NFS22PC",
-        "productId": "Origin.OFR.50.0004477"
+        "productId": "Origin.OFR.50.0004477",
+        "___fakesub": true,
+        "___comment": "some stuff is unlocked by faking EA Play subscription"
     },
     {
         "___name": "Palace Edition bonuses",
@@ -877,6 +879,13 @@
         "entitlementType": "DEFAULT",
         "groupName": "NFS22PC",
         "productId": "Origin.OFR.50.0005427"
+    },
+    {
+        "___name": "Vol.7 Premium Speed Pass",
+        "entitlementTag": "NFS22_SPEEDPASSVOL7_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005513"
     },
     {
         "___name": "Northgard - Svafnir, Clan of the Snake",
