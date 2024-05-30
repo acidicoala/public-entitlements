@@ -2041,6 +2041,20 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000063061"
     },
     {
+        "___name": "The Sims™ 4 Riviera Retreat Kit",
+        "entitlementTag": "SP52_RivieraRetreatKit_0x00000000000661D4:418260",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000661D4"
+    },
+    {
+        "___name": "The Sims™ 4 Cozy Bistro Kit",
+        "entitlementTag": "SP53_CozyBistroKit_0x00000000000661D5:418261",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000661D5"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
