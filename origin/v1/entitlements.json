@@ -888,6 +888,20 @@
         "productId": "Origin.OFR.50.0005513"
     },
     {
+        "___name": "Vol.6 Catch-Up Pack",
+        "entitlementTag": "NFS22_SPVOL6CATCHUP_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005514"
+    },
+    {
+        "___name": "Vol.6 Car Pack",
+        "entitlementTag": "NFS22_CARPACKVOL6_CONTENT",
+        "entitlementType": "DEFAULT",
+        "groupName": "NFS22PC",
+        "productId": "Origin.OFR.50.0005568"
+    },
+    {
         "___name": "Northgard - Svafnir, Clan of the Snake",
         "entitlementTag": "NORTHGARD_HCOTS",
         "entitlementType": "DEFAULT",
