@@ -2069,6 +2069,27 @@
         "productId": "SIMS4.OFF.SOLP.0x00000000000661D5"
     },
     {
+        "___name": "The Sims™ 4 Lovestruck (normal)",
+        "entitlementTag": "EP16_Lovestruck_0x0000000000063821:407585",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000063821"
+    },
+    {
+        "___name": "The Sims™ 4 Lovestruck (preorder)",
+        "entitlementTag": "EP16_PrePurchase_0x0000000000064B65:412517",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000064B65"
+    },
+    {
+        "___name": "The Sims™ 4 Lovestruck (bonuses only)",
+        "entitlementTag": "EP16_IncentiveItems_0x0000000000064B64:412516",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000064B64"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
