@@ -2111,6 +2111,20 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000064B64"
     },
     {
+        "___name": "The Sims™ 4 Artist Studio Kit",
+        "entitlementTag": "SP54_ArtistStudioKit_0x000000000006A8BA:436410",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006A8BA"
+    },
+    {
+        "___name": "The Sims™ 4 Storybook Nursery Kit",
+        "entitlementTag": "SP55_StorybookNurseryKit_0x000000000006A8B1:436401",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006A8B1"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
