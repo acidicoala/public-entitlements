@@ -140,7 +140,8 @@
       62613, // Anno 1800 CDLC 11 - Fiesta Time
       62614, // Anno 1800 CDLC 12 - National Park
       62615, // Anno 1800 CDLC 13 - Eldritch
-      64023  // Anno 1800 CDLC 14 - Steampunk
+      64023, // Anno 1800 CDLC 14 - Steampunk
+      64024  // Anno 1800 CDLC 15 - Pirate
     ],
     "items": []
   },
