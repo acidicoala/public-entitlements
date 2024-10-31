@@ -2125,6 +2125,27 @@
         "productId": "SIMS4.OFF.SOLP.0x000000000006A8B1"
     },
     {
+        "___name": "The Sims™ 4 Life & Death",
+        "entitlementTag": "EP17_LifeAndDeath_0x0000000000069DFF:433663",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000069DFF"
+    },
+    {
+        "___name": "The Sims™ 4 Sweet Slumber Party Kit",
+        "entitlementTag": "SP56_SweetSlumberPartyKit_0x000000000006E7DF:452575",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006E7DF"
+    },
+    {
+        "___name": "The Sims™ 4 Cozy Kitsch Kit",
+        "entitlementTag": "SP57_CozyKitschKit_0x000000000006E7E0:452576",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006E7E0"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
