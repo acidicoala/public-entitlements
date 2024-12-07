@@ -141,7 +141,8 @@
       62614, // Anno 1800 CDLC 12 - National Park
       62615, // Anno 1800 CDLC 13 - Eldritch
       64023, // Anno 1800 CDLC 14 - Steampunk
-      64024  // Anno 1800 CDLC 15 - Pirate
+      64024, // Anno 1800 CDLC 15 - Pirate
+      64025  // Anno 1800 CDLC 16 - Celebration
     ],
     "items": []
   },
