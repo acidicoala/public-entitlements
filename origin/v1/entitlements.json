@@ -2174,6 +2174,41 @@
         "productId": "SIMS4.OFF.SOLP.0x000000000006E7E0"
     },
     {
+        "___name": "The Sims™ 4 Comfy Gamer Kit",
+        "entitlementTag": "SP58_ComfyGamerKit_0x000000000006E828:452648",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006E828"
+    },
+    {
+        "___name": "The Sims™ 4 Secret Sanctuary Kit",
+        "entitlementTag": "SP59_SecretSanctuaryKit_0x000000000006F575:456053",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006F575"
+    },
+    {
+        "___name": "The Sims™ 4 Casanova Cave Kit",
+        "entitlementTag": "SP60_CasanovaCaveKit_0x000000000006F576:456054",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006F576"
+    },
+    {
+        "___name": "The Sims™ 4 Refined Living Room Kit",
+        "entitlementTag": "SP61_RefinedLivingRoomKit_0x0000000000070A7F:461439",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000070A7F"
+    },
+    {
+        "___name": "The Sims™ 4 Business Chic Kit",
+        "entitlementTag": "SP62_BusinessChicKit_0x0000000000070A80:461440",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000070A80"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
