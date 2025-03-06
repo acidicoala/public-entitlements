@@ -2196,17 +2196,52 @@
     },
     {
         "___name": "The Sims™ 4 Refined Living Room Kit",
-        "entitlementTag": "SP61_RefinedLivingRoomKit_0x0000000000070A7F:461439",
+        "entitlementTag": "SP61_RefinedLivingRoom_0x0000000000070A7F:461439",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x0000000000070A7F"
     },
     {
         "___name": "The Sims™ 4 Business Chic Kit",
-        "entitlementTag": "SP62_BusinessChicKit_0x0000000000070A80:461440",
+        "entitlementTag": "SP62_BusinessChic_0x0000000000070A80:461440",
         "entitlementType": "DEFAULT",
         "groupName": "THESIMS4PC",
         "productId": "SIMS4.OFF.SOLP.0x0000000000070A80"
+    },
+    {
+        "___name": "The Sims™ 4 Businesses & Hobbies (normal)",
+        "entitlementTag": "EP18_BusinessesAndHobbies_0x0000000000064E47:413255",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000064E47"
+    },
+    {
+        "___name": "The Sims™ 4 Businesses & Hobbies (preorder)",
+        "entitlementTag": "EP18_PrePurchase_0x000000000006A9D8:436696",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006A9D8"
+    },
+    {
+        "___name": "The Sims™ 4 Businesses & Hobbies (bonuses only)",
+        "entitlementTag": "EP18_IncentiveItems_0x000000000006A9D7:436695",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000006A9D7"
+    },
+    {
+        "___name": "The Sims™ 4 Sleek Bathroom Kit",
+        "entitlementTag": "SP63_SleekBathroomKit_0x00000000000718AF:465071",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000718AF"
+    },
+    {
+        "___name": "The Sims™ 4 Sweet Allure Kit",
+        "entitlementTag": "SP64_SweetAllureKit_0x00000000000718B0:465072",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x00000000000718B0"
     },
     {
         "___name": "The Sinking City - Investigator Pack",
