@@ -2244,6 +2244,27 @@
         "productId": "SIMS4.OFF.SOLP.0x00000000000718B0"
     },
     {
+        "___name": "The Sims™ 4 Restoration Workshop Kit",
+        "entitlementTag": "SP65_RestorationWorkshopKit_0x0000000000073489:472201",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000073489"
+    },
+    {
+        "___name": "The Sims™ 4 Kitchen Clutter Kit",
+        "entitlementTag": "SP67_KitchenClutterKit_0x000000000007348B:472203",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000007348B"
+    },
+    {
+        "___name": "The Sims™ 4 Golden Years Kit",
+        "entitlementTag": "SP66_GoldenYearsKit_0x000000000007348A:472202",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x000000000007348A"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
