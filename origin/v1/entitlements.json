@@ -2265,6 +2265,20 @@
         "productId": "SIMS4.OFF.SOLP.0x000000000007348A"
     },
     {
+        "___name": "The Sims™ 4 Fairy Garden Digital Content",
+        "entitlementTag": "EP19_IncentiveItems_0x0000000000073122:471330",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000073122"
+    },
+    {
+        "___name": "The Sims™ 4 Enchanted by Nature Expansion Pack",
+        "entitlementTag": "EP19_PrePurchase_0x0000000000073123:471331",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000073123"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
