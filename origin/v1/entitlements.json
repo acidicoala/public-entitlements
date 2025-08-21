@@ -2279,6 +2279,20 @@
         "productId": "SIMS4.OFF.SOLP.0x0000000000073123"
     },
     {
+        "___name": "The Sims™ 4 Essential Glam Kit",
+        "entitlementTag": "SP72_EssentialGlam_0x0000000000076F8B:487307",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000076F8B"
+    },
+    {
+        "___name": "The Sims™ 4 Grange Mudroom Kit",
+        "entitlementTag": "SP71_GrangeMudroom_0x0000000000076F8A:487306",
+        "entitlementType": "DEFAULT",
+        "groupName": "THESIMS4PC",
+        "productId": "SIMS4.OFF.SOLP.0x0000000000076F8A"
+    },
+    {
         "___name": "The Sinking City - Investigator Pack",
         "entitlementTag": "THE_SINKING_CITY_DLC_1",
         "entitlementType": "DEFAULT",
