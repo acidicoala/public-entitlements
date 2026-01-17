@@ -1,0 +1,24 @@
+name: Validate JSON files
+
+on:
+  pull_request:
+    paths:
+      - '**/*.json'
+
+jobs:
+  json-validation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Validate JSON syntax
+        run: |
+          set -e
+          echo "Checking JSON files..."
+          find . -name '*.json' -type f -print0 | while IFS= read -r -d '' file; do
+            echo "Validating $file"
+            jq empty "$file"
+          done
+          echo "All JSON files are valid."
