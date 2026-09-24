@@ -9,7 +9,23 @@
       17860, // UNO - Fenyx's Quest Theme Cards
       17942, // UNO - 50th Anniversary Theme Cards
       59689, // UNO - The Call of Yara Theme Cards
-      60710 // UNO - AC Valhalla Theme Cards
+      60710, // UNO - AC Valhalla Theme Cards
+      4886, // UNO Rayman Theme
+      4887, // UNO Just Dance Theme
+      16761, // UNO FLIP
+      58151, // UNO Fenyx's Quest
+      59209, // UNO 50th Anniversary
+      59757, // UNO The Call of Yara
+      60711, // UNO Valhalla
+      64082, // UNO - Party! Mania
+      64083, // UNO Party! Mania™
+      66507, // UNO - Show 'Em No Mercy
+      66601, // UNO™ Show ‘Em No Mercy™
+      66857, // UNO - Brawlhalla Cosmetic Pack
+      66858, // UNO™ - Brawlhalla Cosmetic Pack
+      67541, // UNO - Shovel Knight Cosmetic Pack
+      67542, // UNO™ - Shovel Knight Cosmetic Pack
+      67792 // UNO - Flex! DLC
     ],
     "items": [
       61887
@@ -41,7 +57,12 @@
       57998,
       58001,
       58002,
-      58861
+      58861,
+      14483, // Watch Dogs Legion - Season Pass
+      14642, // Watch Dogs: Legion Season Pass
+      58250, // Watch Dogs Legion - Ultimate Pack
+      58251, // Watch Dogs Legion - Ultimate Pack
+      59207 // Watch Dogs: Legion - Bloodline
     ],
     "items": [
       5354,
@@ -69,17 +90,6 @@
       5560, // Anno 1800 CDLC 01 - Holiday
       5800, // Anno 1800 DLC - Charity Tree
       12104, // Anno 1800 Company Logos
-      12165, // LanguagePackEnglish
-      12166, // LanguagePackFrench
-      12167, // LanguagePackItalian
-      12168, // LanguagePackGerman
-      12169, // LanguagePackSpanish
-      12170, // LanguagePackPolish
-      12171, // LanguagePackRussian
-      12172, // LanguagePackJapanese
-      12173, // LanguagePackKorean
-      12174, // LanguagePackChinese
-      12175, // LanguagePackTaiwanese
       12176, // ???
       14074, // Anno 1800 - Season Pass Player Assets
       14214, // Anno 1800 DLC - Sunken Treasure
@@ -142,7 +152,55 @@
       62615, // Anno 1800 CDLC 13 - Eldritch
       64023, // Anno 1800 CDLC 14 - Steampunk
       64024, // Anno 1800 CDLC 15 - Pirate
-      64025  // Anno 1800 CDLC 16 - Celebration
+      64025,  // Anno 1800 CDLC 16 - Celebration
+      12122, // Anno® 1800 - Der Anarchist DLC
+      12124, // Anno® 1800 - Company Logos
+      13291, // Anno 1800 Deluxe Pack
+      14083, // Anno 1800 - Season Pass Player Assets
+      14125, // Anno 1800 Season 1 Pass
+      14848, // Anno 1800 Sunken Treasures
+      14849, // Anno 1800 Botanica
+      14850, // Anno 1800 The Passage
+      16101, // Anno 1800 Holiday Pack
+      16646, // Anno 1800 Seat of Power
+      16647, // Anno 1800 Bright Harvest
+      16648, // Anno 1800 Land Of Lions
+      16762, // Anno 1800 - Season Pass 2 Player Assets
+      16764, // Anno 1800 Season 2 Pass
+      16903, // Anno 1800 - Season Pass
+      16909, // Anno 1800 - Season 2 Pass
+      17593, // Anno 1800 Amusements Pack
+      17771, // Anno 1800 City Lights Pack
+      58413, // Anno 1800 Season 3 Pass
+      58461, // Anno 1800 Docklands
+      58462, // Anno 1800 Tourist Season
+      58463, // Anno 1800 The High Life
+      58552, // Anno 1800 - Year 3 Pass
+      59175, // Anno 1800 Vehicle Liveries Pack
+      59658, // Anno 1800 Pedestrian Zone Pack
+      60474, // Anno 1800 Vibrant Cities Pack
+      60860, // Anno 1800 Seasonal Decorations Pack
+      60867, // Anno 1800 Industrial Zone Pack
+      60868, // Anno 1800 Old Town Pack
+      60870, // Anno 1800 Seeds Of Change
+      60871, // Anno 1800 Empire of the Skies
+      60872, // Anno 1800 New World Rising
+      60873, // Anno 1800 Season 4 Pass
+      60878, // Anno 1800 Cosmetic Pack Bundle
+      62449, // Anno 1800 - Dragon Garden Cosmetic DLC
+      62450, // Anno 1800 Dragon Garden Pack
+      62637, // Anno® 1800 - Fiesta Pack
+      62638, // Anno 1800 Fiesta Pack
+      62639, // Anno 1800™ National Park Pack
+      62640, // Anno 1800 National Park Pack
+      62641, // Anno 1800™ - Eldritch Pack
+      62642, // Anno 1800 Eldritch Pack
+      63697, // Anno 1800 Cosmetic Pack Bundle 2
+      63740, // Anno 1800 - Season Pass 4 Player Assets
+      64026, // Anno 1800 Steampunk Pack
+      64027, // Anno 1800 - Pirate Cove Pack
+      64028, // Anno 1800 - End of an Era Pack
+      12125 // Anno® 1800 - Art Book
     ],
     "items": []
   },
@@ -232,7 +290,6 @@
       17437,
       17438,
       17439,
-      17440,
       17440,
       17441,
       17442,
@@ -412,7 +469,8 @@
       62276,
       62303,
       62304,
-      62306
+      62306,
+      61909 // Far Cry 6 Game of the Year Upgrade Pass
     ],
     "items": [
       57122,
@@ -454,7 +512,11 @@
       5542,
       5723,
       5724,
-      60478
+      60478,
+      58217, // Immortals Fenyx Rising - Season Pass
+      58377, // Immortals Fenyx Rising - A New God
+      58378, // Immortals Fenyx Rising - Myths of the Eastern Realm
+      58379 // Immortals Fenyx Rising - The Lost Gods
     ],
     "items": [
       5507,
@@ -472,19 +534,6 @@
     "dlcs": [
       5606, // DLC: The Legend of Beowulf
       5607, // DLC: Wrath of the Druids
-      5625, // Language Pack: fr-FR
-      5626, // Language Pack: it-IT
-      5627, // Language Pack: de-DE
-      5628, // Language Pack: es-ES
-      5629, // Language Pack: ru-RU
-      5630, // Language Pack: pt-BR
-      5631, // Language Pack: ja-JP
-      5632, // Language Pack: pl-PL
-      5633, // Language Pack: ar-AA
-      5634, // Language Pack: es-MX
-      5635, // Language Pack: zh-TW
-      5636, // Language Pack: zh-CN
-      5637, // Language Pack: ko-KO
       5638,
       5639, // DLC: Berserker Pack
       5640, // DLC: Berserker Settlement Pack
@@ -497,7 +546,6 @@
       5695,
       5696,
       5697,
-      5698, // Language Pack: en-US
       5699,
       5725, // DLC: Premium Starter Pack
       16915,
@@ -509,7 +557,6 @@
       16921,
       16923,
       16962,
-      16963,
       16964,
       16965,
       16966,
@@ -557,7 +604,6 @@
       58292,
       59211,
       59571,
-      59571,
       59590,
       59625,
       59884, // DLC: Dawn of Ragnarök
@@ -581,7 +627,10 @@
       62314,
       62315,
       62316,
-      62317
+      62317,
+      59889, // Assassin's Creed Valhalla - Twilight pack
+      59890, // Assassin's Creed Valhalla Dawn of Ragnarök
+      60449 // Assassin's Creed Valhalla - Dawn of Ragnarök Expansion
     ],
     "items": [
       5596,
@@ -639,7 +688,9 @@
       64229,
       64384,
       64444,
-      64480
+      64480,
+      64630, // Assassin's Creed Shadows - Claws of Awaji
+      64718 // Assassin's Creed Shadows - Premium Starter Pack
     ],
     "items": [
       5596,
@@ -651,5 +702,1116 @@
       58178,
       64527
     ]
+  },
+
+  "921": {
+    "name": "Anno 117: Pax Romana",
+    "dlcs": [
+      64839, // Anno 117: Pax Romana – Prophecies of Ash
+      64840, // Anno 117: Pax Romana - The Hippodrome
+      64842, // Anno 117: Pax Romana – Marvellous Mosaic Pack
+      64843, // Anno 117: Pax Romana – Blooming Cities Pack
+      64844, // Anno 117: Pax Romana - Echoes of Kassandra Pack
+      66495 // Anno 117: Pax Romana – Year 1 Pass
+    ],
+    "items": []
+  },
+
+  "65043": {
+    "name": "Assassin's Creed Black Flag Resynced",
+    "dlcs": [
+      66234, // Assassin's Creed Black Flag Resynced - Hellfire Character Pack
+      66236, // Assassin's Creed Black Flag Resynced - Hellfire Naval Pack
+      66238, // Assassin's Creed Black Flag Resynced - Sea Serpent Character Pack
+      66240, // Assassin's Creed Black Flag Resynced - Sea Serpent Naval Pack
+      66242, // Assassin's Creed Black Flag Resynced - Dragon Storm Character Pack
+      66244, // Assassin's Creed Black Flag Resynced - Dragon Storm Naval Pack
+      66246, // Assassin's Creed Black Flag Resynced - Map Pack
+      66364, // Assassin's Creed Black Flag Resynced - Master Assassin Character Pack
+      66366 // Assassin's Creed Black Flag Resynced - Master Assassin Naval Pack
+    ],
+    "items": []
+  },
+
+  "5183": {
+    "name": "Assassin's Creed III Remastered",
+    "dlcs": [
+      13347 // Assassin's Creed 3 Liberation Remaster - Extra Content Videos
+    ],
+    "items": []
+  },
+
+  "273": {
+    "name": "Assassin's Creed IV Black Flag (2013)",
+    "dlcs": [
+      438, // Assassin's Creed IV Black Flag - Ubicollectibles Edward
+      439, // Assassin's Creed IV Black Flag - AC Initiates
+      440, // Assassin's Creed IV Black Flag - Ubicollectibles Black Beard
+      453, // Assassin's Creed IV Black Flag - MacFarlane Connor Kenway's sails
+      515, // Assassin’s Creed®IV Black Flag™ Time Saver Resources Pack
+      516, // Assassin’s Creed® IV Black Flag™ Time Saver Collectibles Pack
+      517, // Assassin’s Creed® IV Black Flag™ Activities Pack
+      518, // Assassin’s Creed® IV Black Flag™ Death Vessel Pack
+      519, // Assassin’s Creed® IV Black Flag™ Crusader & Florentine Pack
+      520, // Assassin’s Creed®IV Black Flag™ Multiplayer Characters Pack Blackbeard’s Wrath
+      521, // Assassin’s Creed® IV Black Flag™ Freedom Cry
+      522, // Assassin’s Creed® IV Black Flag™ Illustrious Pirates Pack
+      523, // Assassin’s Creed® IV Black Flag™ Guild of Rogues
+      524, // Assassin’s Creed®IV Black Flag™ Time Saver: Technology Pack
+      542, // Assassin's Creed IV Black Flag - MacFarlane Haytham Outfit
+      549, // Assassin's Creed IV Black Flag - MacFarlane Edward Kenway Unique Dual Swords
+      550, // Assassin's Creed IV Black Flag - Global Pack
+      555, // Assassin's Creed IV Black Flag - The Pirate's Trophy
+      556, // Assassin's Creed IV Black Flag - The Castaway's Prize
+      557, // Assassin's Creed IV Black Flag - Trove of Mystery
+      558, // Assassin's Creed IV Black Flag - Pride of the West Indies
+      559, // Assassin's Creed IV Black Flag - Wilkinson Figurehead
+      561, // Assassin's Creed IV Black Flag - MacFarlane Black Beard's sails
+      562, // Assassin's Creed IV Black Flag - MacFarlane Black Bart's sails
+      567, // Assassin’s Creed® IV Black Flag™ Kraken Ship Pack
+      602, // Assassin's Creed IV Black Flag - MacFarlane Hornigold's Sails
+      607 // Assassin’s Creed® IV Black Flag™ Season Pass
+    ],
+    "items": []
+  },
+
+  "625": {
+    "name": "Assassin's Creed Liberation",
+    "dlcs": [
+      648 // Assassin’s Creed® Liberation HD - Bonus Pack
+    ],
+    "items": []
+  },
+
+  "6100": {
+    "name": "Assassin's Creed Mirage",
+    "dlcs": [
+      61857, // Assassin’s Creed® Mirage - Deluxe Pack
+      61858, // Assassin’s Creed® Mirage - The Forty Thieves
+      61859, // Assassin’s Creed® Mirage - Lightning Pack
+      61860, // Assassin’s Creed® Mirage - Djinn Pack
+      61861, // Assassin’s Creed® Mirage - Fire Demon Pack
+      61862, // Assassin’s Creed® Mirage - Map Pack
+      62987, // Assassin's Creed Mirage - Master Assassin Pack
+      62988, // Assassin's Creed Mirage - Guardian Pack
+      63225, // Assassin’s Creed Mirage Map Pack
+      63226, // Assassin’s Creed Mirage Fire Demon Pack
+      63227, // Assassin’s Creed Mirage Jinn Pack
+      63228, // Assassin’s Creed Mirage Lightning Pack
+      63230, // Assassin’s Creed Mirage Guardian Pack
+      63231, // Assassin’s Creed Mirage Deluxe Pack
+      63232, // Assassin’s Creed Mirage Master Assassin Pack
+      63234, // Assassin’s Creed Mirage Master Assassin Upgrade Bundle 2
+      63235, // Assassin’s Creed Mirage Master Assassin Upgrade Bundle 1
+      63772, // Assassin's Creed Mirage - Master Assassin Upgrade #1
+      63773, // Assassin's Creed Mirage - Master Assassin Upgrade #2
+      66822, // Assassin’s Creed Mirage Desert Scorpion Pack
+      67045 // Assassin’s Creed Mirage Celestial Weapons Pack
+    ],
+    "items": []
+  },
+
+  "5059": {
+    "name": "Assassin's Creed Odyssey",
+    "dlcs": [
+      5141, // Assassin's Creed® Odyssey - Hunted
+      5142, // Assassin's Creed® Odyssey - Shadow Heritage
+      5143, // Assassin's Creed® Odyssey - Bloodline
+      5144, // Assassin's Creed® Odyssey - Fields of Elysium
+      5145, // Assassin's Creed® Odyssey - Torment of Hades
+      5146, // Assassin's Creed® Odyssey - Judgment of Atlantis
+      5163, // Assassin's Creed® Odyssey - Season Pass
+      5164, // Assassin's Creed® Odyssey - Legacy of the First Blade
+      5165, // Assassin's Creed® Odyssey - Tales of Atlantis
+      5179, // Assassin's Creed® Odyssey - The Secrets of Greece
+      5180, // Assassin's Creed® Odyssey - The Blind King
+      5182, // Assassin's Creed® Odyssey - Deluxe Pack
+      11860, // Assassin's Creed® Odyssey - Season Pass
+      11864, // Assassin's Creed Odyssey Season Pass
+      12495, // Assassin's Creed Odyssey: Legacy of the First Blade
+      12496, // Assassin’s Creed Odyssey - The Fate of Atlantis
+      14884 // Assassin's Creed® Odyssey - Deluxe Pack
+    ],
+    "items": []
+  },
+
+  "3539": {
+    "name": "Assassin's Creed Origins",
+    "dlcs": [
+      4968, // Assassin's Creed Origins - Roman Centurion Pack
+      4969, // Assassin's Creed Origins - Horus Pack
+      4970, // Assassin's Creed Origins - Desert Viper Pack
+      4971, // Assassin's Creed Origins - The Hidden Ones
+      4972, // Assassin's Creed Origins - Curse of the Pharaohs
+      4973, // Assassin's Creed Origins - Secrets of the first Pyramids
+      4974, // Assassin's Creed Origins - Naval Quest
+      5021, // Assassin's Creed Origins - Calamity Blade
+      10450, // Assassin's Creed® Origins Season Pass
+      10802, // Assassin's Creed® Origins - Deluxe Pack
+      11016, // Assassin's Creed Origins - Roman Centurion Pack
+      11017, // Assassin's Creed® Origins - Horus Pack
+      11107, // Assassin's Creed Origins - The Hidden Ones
+      11501, // Assassin's Creed Origins - The Curse Of the Pharaohs
+      14885 // Assassin's Creed® Origins - Season Pass
+    ],
+    "items": []
+  },
+
+  "40": {
+    "name": "Assassin's Creed Revelations",
+    "dlcs": [
+      97, // Assassin's Creed® Revelations - The Lost Archive
+      4055 // Assassin's Creed Revelations - Ancestors Character pack
+    ],
+    "items": []
+  },
+
+  "895": {
+    "name": "Assassin's Creed Rogue",
+    "dlcs": [
+      1208, // Assassin's Creed® Rogue - Time Saver: Resource Pack
+      1209, // Assassin's Creed® Rogue - Time Saver: Collectibles Pack
+      1210, // Assassin's Creed® Rogue - Time Saver: Activities Pack
+      1211, // Assassins Creed® Rogue - Time Saver: Technology Pack
+      1356, // Assassin's Creed® Rogue™ - Templar Pack
+      1357, // Assassin's Creed® Rogue™ - Commander Pack
+      1358, // Assassin’s Creed® Rogue™ - ULC Officer Pack
+      1359, // Assassin's Creed® Rogue™ - Explorer Pack
+      1360, // Assassin’s Creed® Rogue™ - ULC The Armor of Sir Gunn quest
+      1361, // Assassin's Creed® Rogue™ - Fort de Sable
+      1681, // Assassin's Creed® Rogue - Templar Legacy Pack
+      1760, // Assassin's Creed Rogue - Activities Pack DLC
+      1761, // Assassin's Creed Rogue - Collectibles Pack DLC
+      1762, // Assassin's Creed Rogue - Resource Pack DLC
+      1763 // Assassin's Creed Rogue - Technology Pack DLC
+    ],
+    "items": []
+  },
+
+  "1875": {
+    "name": "Assassin's Creed Syndicate",
+    "dlcs": [
+      1961, // Assassin's Creed Syndicate - The Darwin and Dickens Conspiracy
+      1962, // Assassin's Creed Syndicate - Runaway Train
+      1963, // Assassin's Creed Syndicate - A Long Night - Train Hideout Mission
+      1964, // Assassin's Creed Syndicate - Stealth Revolver
+      1965, // Assassin's Creed Syndicate - Demonic Revolver
+      1966, // Assassin's Creed Syndicate - Ocean Cane-Sword
+      1967, // Assassin's Creed Syndicate - Copper Hammer Cane-Sword
+      1968, // Assassin's Creed Syndicate - Ceremonial Kukri
+      1969, // Assassin's Creed Syndicate - Golden Kukri
+      1970, // Assassin's Creed Syndicate - Ram's Kukri
+      1971, // Assassin's Creed Syndicate - Redback Gauntlet
+      1972, // Assassin's Creed Syndicate - Industrial Gauntlet
+      1973, // Assassin's Creed Syndicate - Royal Gauntlet
+      1974, // Assassin's Creed Syndicate - Pirate Knuckles
+      1975, // Assassin's Creed Syndicate - Dirty Knuckles
+      1976, // Assassin's Creed Syndicate - Angel Knuckles
+      1977, // Assassin's Creed Syndicate - Suave Gear Set
+      1978, // Assassin's Creed Syndicate - Nighthawk Gear Set
+      1979, // Assassin's Creed Syndicate - Iron Belt
+      1980, // Assassin's Creed Syndicate - Out Of The Blue Cloak
+      1981, // Assassin's Creed Syndicate - Edward Outfit
+      1982, // Assassin's Creed Syndicate - Elise Outfit
+      1983, // Assassin's Creed Syndicate - Huntsman's Outfit
+      1984, // Assassin's Creed® Syndicate - Season Pass
+      1988, // Assassin's Creed Syndicate - Streets of London
+      1989, // Assassin's Creed® Syndicate - The Last Maharaja Missions Pack
+      2267, // Assassin's Creed Syndicate - Special XP Boost
+      2362, // Assassin's Creed Syndicate - Original Soundtrack
+      2758, // Assassin's Creed Syndicate - The Last Maharaja Missions Pack
+      2836, // Assassin's Creed Syndicate - Steampunk Pack DLC
+      2837, // Assassin's Creed Syndicate - Victorian Legends DLC
+      2847, // Assassin's Creed Syndicate Season Pass
+      2915, // Assassin's Creed Syndicate - Jack The Ripper
+      2986, // Assassin's Creed Syndicate - Streets of London DLC
+      3250 // Assassin's Creed Syndicate - The Dreadful Crimes DLC
+    ],
+    "items": []
+  },
+
+  "720": {
+    "name": "Assassin's Creed Unity",
+    "dlcs": [
+      1018, // Assassin’s Creed® Unity - The Chemical Revolution
+      1019, // Assassin’s Creed® Unity - The American Prisoner
+      1020, // Assassin’s Creed® Unity - Killed by Science
+      1021, // Assassin’s Creed® Unity - Prussian Waistcoat
+      1022, // Assassin’s Creed® Unity - Siege of Maastricht Hood
+      1023, // Assassin’s Creed® Unity - Leipzig Regiment Hood
+      1024, // Assassin’s Creed® Unity - National Guard Trousers
+      1025, // Assassin’s Creed® Unity - Athos' Duel Shirt
+      1026, // Assassin’s Creed® Unity - Black Musketeer Breeches
+      1027, // Assassin’s Creed® Unity - La Tour d'Auvergne Bracers
+      1028, // Assassin’s Creed® Unity - Isenburg-Birnstein Belt
+      1029, // Assassin’s Creed® Unity - Maple Hunting Rifle
+      1030, // Assassin’s Creed® Unity - Spanish Cup-Hilt Rapier
+      1031, // Assassin’s Creed® Unity - Over Under Pistol
+      1032, // Assassin’s Creed® Unity - Razorhead Spear
+      1033, // Assassin’s Creed® Unity - Sabre of Honour
+      1034, // Assassin’s Creed® Unity - War Axe
+      1035, // Assassin’s Creed® Unity - Armorsplitter Axe
+      1036, // Assassin’s Creed® Unity - Parade Pistol
+      1037, // Assassin’s Creed® Unity - Pappenheimer Rapier
+      1038, // Assassin’s Creed® Unity - Hooked Impaler
+      1039, // Assassin’s Creed® Unity - Silver-Plated Pistol
+      1040, // Assassin’s Creed® Unity - Arno's French Rapier
+      1041, // Assassin’s Creed® Unity - Arno's Dueling Pistol
+      1042, // Assassin’s Creed® Unity - French Cavalry Pistol
+      1043, // Assassin’s Creed® Unity - McFarlane Master Assassin Outfit
+      1044, // Assassin’s Creed® Unity - Arno’s Fearless Outfit
+      1045, // Assassin’s Creed® Unity - The Fleur-de-Lys
+      1173, // Assassin's Creed® Unity - Dead Kings
+      1244, // Assassin's Creed® Unity - Secrets of the Revolution
+      1245, // Assassin's Creed® Unity - Underground Armory
+      1246, // Assassin's Creed® Unity - Revolutionary Armaments Pack
+      1460, // Assassin's Creed Unity - Revolutionary Armaments Pack DLC
+      1581, // Assassin's Creed® Unity - Season Pass
+      1606, // Assassin’s Creed® Unity - Revolutionary Armaments Pack
+      1709 // Assassin's Creed Unity - Secrets of the Revolution DLC
+    ],
+    "items": []
+  },
+
+  "4740": {
+    "name": "Avatar: Frontiers of Pandora",
+    "dlcs": [
+      9840, // Avatar: Frontiers of Pandora™ - Season Pass
+      9841, // Avatar: Frontiers of Pandora™ - Child of Two Worlds Pack
+      17010, // Avatar: Frontiers of Pandora - DLC 1
+      62794, // Avatar: Frontiers of Pandora Season Pass
+      63059, // Avatar: Frontiers of Pandora - DLC 2
+      63060, // Avatar: Frontiers of Pandora™ - Ultimate Pack
+      63061, // Avatar: Frontiers of Pandora™ - Digital Art Book
+      64265, // Avatar: Frontiers of Pandora - The Sky Breaker
+      64266, // Avatar: Frontiers of Pandora - Secrets of The Spire
+      65306, // Avatar: Frontiers of Pandora - From the Ashes
+      65307 // Avatar: Frontiers of Pandora™ - From The Ashes Expansion
+    ],
+    "items": []
+  },
+
+  "16382": {
+    "name": "Brawlhalla",
+    "dlcs": [
+      59214, // Brawlhalla All Legends
+      61688, // Brawlhalla - Battle Pass Season 6
+      63241, // Brawlhalla Gold Battle Pass: Classic 8
+      64060, // Brawlhalla - Battle Pass 4 Classic
+      64061, // Brawlhalla - Deluxe Upgrade Battle Pass 4 Classic
+      64062, // Brawlhalla - Summer Esports 2024 Pack
+      64063, // Brawlhalla - Battle Pass 10
+      64065, // Brawlhalla - BCX 2024 Pack
+      64066, // Brawlhalla - Battle Pass 5 Classic
+      64128, // Brawlhalla - Deluxe Upgrade Battle Pass 10
+      64129, // Brawlhalla - Deluxe Upgrade Battle Pass 5 Classic
+      65442, // Brawlhalla - Winter Esports 2025 Pack
+      65443, // Brawlhalla - Battle Pass Season 11
+      65444, // Brawlhalla - Deluxe Upgrade Battle Pass 11
+      65446, // Brawlhalla - Deluxe Upgrade Battle Pass Classic 6
+      65447, // Brawlhalla Summer Esports 2025 Pack
+      65448, // Brawlhalla Gold Battle Pass: Season 12
+      65449, // Brawlhalla Battle Pass Season 12 Deluxe Upgrade
+      65450, // Brawlhalla Autumn Esports 2025 Pack
+      65452, // Brawlhalla Battle Pass Classic 7 Deluxe Upgrade
+      65460, // Brawlhalla: Gold Battle Pass Classic 7
+      67134, // Brawlhalla - Lara Croft Pack
+      67135, // Brawlhalla: Lara Croft Pack
+      67324, // Brawlhalla - Winter Esports 2026 Pack
+      67326, // Brawlhalla Gold Battle Pass: Season 13
+      67328, // Brawlhalla Deluxe Battle Pass Upgrade: Season 13
+      67332, // Brawlhalla - Spring Esports 2026 Pack
+      67334, // Brawlhalla Battle Pass Deluxe Upgrade: Classic 8
+      67338, // Brawlhalla Summer Esports 2026 Pack
+      67339, // Brawlhalla Summer Esports 2026 Pack
+      67340, // Brawlhalla - Battle Pass Season 14 Gold
+      67341, // Brawlhalla - Battle Pass Season 14 Gold
+      67342, // Brawlhalla - Battle Pass Season 14 Deluxe
+      67343, // Brawlhalla - Battle Pass Season 14 Deluxe
+      67345, // Brawlhalla - Battle Pass Season 14 Bundle
+      67346, // Brawlhalla - Autumn Esports 2026 Pack
+      67347 // Brawlhalla - Autumn Esports Pack 2026
+    ],
+    "items": []
+  },
+
+  "609": {
+    "name": "Child of Light",
+    "dlcs": [
+      762, // Child of Light - Golem
+      763, // Child of Light - Light Aurora
+      766, // Child of Light - Dark Aurora
+      767, // Child of Light - Pack of Rough Oculis
+      768, // Child of Light - Pack of Tumbled Oculis
+      769, // Child of Light - Pack of Faceted Oculis
+      770, // Child of Light - Stardust Pack
+      816, // Child of Light - Golem Pack DLC
+      819, // Child of Light - Light Pack DLC
+      820, // Child of Light - Dark Pack DLC
+      821, // Child of Light - Rough Oculi Pack DLC
+      822, // Child of Light - Tumbled Oculi Pack DLC
+      823, // Child of Light - Faceted Oculi Pack DLC
+      824 // Child of Light - Stardust Pack DLC
+    ],
+    "items": []
+  },
+
+  "420": {
+    "name": "Far Cry 4",
+    "dlcs": [
+      1163, // Far Cry® 4 - BloodRuby
+      1213, // Far Cry® 4 - Escape from Durgesh Prison
+      1214, // Far Cry® 4 - The Hurk Deluxe Pack
+      1215, // Far Cry® 4 - Overrun
+      1216, // Far Cry® 4 - Valley of the Yetis
+      1217, // Far Cry® 4 - Hurk’s Return
+      1218, // Far Cry® 4 - Yak Farm
+      1219, // Far Cry® 4 - The Syringe
+      1220, // Far Cry® 4 - Driller PKM
+      1221, // Far Cry® 4 - Elephant Gun .700 Nitro
+      1222, // Far Cry® 4 - Sandman 1911 Pistol
+      1223, // Far Cry® 4 - Butcher's Machete
+      1579, // Far Cry 4 Season Pass
+      1585, // Far Cry® 4 - Season Pass
+      1676, // Far Cry 4 - Escape From Durgesh Prison DLC
+      1717, // Far Cry 4 - Hurk Deluxe Pack DLC
+      1727, // Far Cry 4 - Valley of the Yetis DLC
+      1764 // Far Cry 4 - Overrun DLC
+    ],
+    "items": []
+  },
+
+  "1803": {
+    "name": "Far Cry 5",
+    "dlcs": [
+      5043, // Far Cry 5 - Deluxe Pack
+      5076, // Far Cry 5 - Hours of Darkness
+      5077, // Far Cry 5 - Dead Living Zombies
+      5078, // Far Cry 5 - Lost on Mars
+      5079, // Far Cry 5 - Season Pass
+      5101, // Far Cry 5 - American Muscle Pack
+      5241, // Far Cry 5 - HD Textures Pack
+      11326, // Far Cry® 5 - Deluxe Pack
+      11404, // Far Cry 5 - Outlaw Pack
+      11407, // Far Cry 5 -  HTI .50 Sniper Rifle with Unique Skin
+      11457, // Far Cry 5 - Hours Of Darkness
+      11620, // Far Cry 5 Season Pass
+      12026, // Far Cry® 5 Lost on Mars
+      12318, // Far Cry 5 Dead Living Zombies
+      14904 // Far Cry® 5 - Season Pass
+    ],
+    "items": []
+  },
+
+  "5210": {
+    "name": "Far Cry New Dawn",
+    "dlcs": [
+      5302, // Far Cry® New Dawn - Deluxe Pack
+      5303, // Far Cry® New Dawn - Preorder Trike
+      5322, // Far Cry® New Dawn - HD Texture Pack
+      13070, // Far Cry New Dawn - Deluxe Pack
+      13139, // Far Cry® New Dawn - Hurk Legacy Pack
+      13140, // Far Cry® New Dawn - Knight Pack
+      13141, // Far Cry® New Dawn - Retro Weapon Pack
+      13294, // Hurk Legacy Pack
+      13295, // Knight Pack
+      13296, // Weapons Pack
+      13756 // Unicorn Trike
+    ],
+    "items": []
+  },
+
+  "2010": {
+    "name": "Far Cry Primal",
+    "dlcs": [
+      3227, // Far Cry Primal - Wenja Pack
+      3231, // Far Cry Primal - Ultra HD Texture Pack
+      3236 // Far Cry Primal - Wenja Pack
+    ],
+    "items": []
+  },
+
+  "61432": {
+    "name": "Fell Seal: Arbiter's Mark",
+    "dlcs": [
+      61755 // Fell Seal: Arbiter's Mark - Missions and Monsters
+    ],
+    "items": []
+  },
+
+  "569": {
+    "name": "For Honor",
+    "dlcs": [
+      4413, // For Honor - Season Pass
+      5215, // For Honor : Marching Fire Expansion
+      5240, // For Honor : Marching Fire Expansion Pre-order Bonus
+      5299, // For Honor - Year 3 Pass
+      5588, // For Honor - Battle Pass Y4S1
+      5593, // For Honor – Battle Pass Y4S4
+      5594, // For Honor – Battle Pass Premium Y4S4
+      5721, // For Honor – Gryphon Hero
+      5736, // For Honor – Battle Pass Y5S1
+      5737, // For Honor – Battle Pass Premium Y5S1
+      5738, // For Honor - Battle Pass - Y5S2
+      5739, // For Honor - Battle Pass - Y5S2 - Battle Bundle
+      5742, // For Honor - Battle Pass - Y5S4
+      5743, // For Honor - Battle Pass - Y5S4 - Battle Bundle
+      8026, // For Honor - Premium Skin - Year 8 Season 1
+      8027, // For Honor - Premium Skin - Year 8 Season 1 Ezio
+      8028, // For Honor - Premium Skin - Year 8 Season 2
+      8029, // For Honor - Hero - Year 8 Season 2
+      8030, // For Honor - Premium Skin - Year 8 Season 3
+      8031, // For Honor - Premium Skin - Year 8 Season 4
+      8032, // FOR HONOR - HERO CHARACTER Y8S4 - MONGOL
+      8033, // For Honor - Battle Pass - Year 8 Season 1
+      8034, // For Honor - Battle Bundle - Year 8 Season 1
+      8035, // For Honor - Legacy Pass - Year 8 Season 1
+      8036, // For Honor - Battle Pass - Year 8 Season 2
+      8037, // For Honor - Battle Bundle - Year 8 Season 2
+      8038, // For Honor - Legacy Pass - Year 8 Season 2
+      8039, // For Honor - Battle Pass - Year 8 Season 3
+      8040, // For Honor - Battle Bundle - Year 8 Season 3
+      8041, // For Honor - Legacy Pass Y4S3 - Year 8 Season 3
+      8042, // For Honor - Battle Pass - Year 8 Season 4
+      8043, // For Honor - Battle Bundle - Year 8 Season 4
+      8044, // For Honor - Legacy Pass Y4S4 - Year 8 Season 4
+      8045, // For Honor - The Unsung Knight - Warden Hero Skin
+      8047, // For Honor - Master Katashi - Orochi Hero Skin
+      8048, // For Honor - Gudmundr - Warlord Hero Skin
+      8049, // For Honor - Sohei – Hero
+      8050, // For Honor - General Zhi - Zhanhu Hero Skin
+      8051, // For Honor - Khatun - Hero
+      17569, // For Honor Warmonger – Hero
+      58104, // For Honor Gryphon – Hero
+      59391, // For Honor Kyoshin – Hero
+      60473, // For Honor Pirate – Hero
+      60532, // FOR HONOR™ - Pirate Hero
+      60772, // For Honor® Y6S2 Battle Pass
+      60773, // For Honor® Y6S2 Battle Bundle
+      60774, // For Honor® Raider Hero Skin
+      60775, // FOR HONOR™ - Medjay Hero
+      60776, // For Honor - Battle Pass - Y6S3
+      60777, // For Honor - Battle Bundle - Y6S3
+      60778, // For Honor - Premium Skin - Y6S3
+      60779, // For Honor – Year 6 Season 4 Battle Pass
+      60780, // For Honor – Year 6 Season 4 Battle Bundle
+      60781, // For Honor - BlackPrior Hero Skin- Year 6 Season 4
+      60782, // For Honor - Y6S4 - Afeera Hero Pack
+      60834, // For Honor Lord Ramiel – Warden Hero Skin
+      60837, // For Honor Bolthorn the Cursed – Raider Hero Skin
+      60840, // For Honor Yokai Slayer Meiko – Kensei Hero Skin
+      60843, // For Honor Commander Ravier – Black Prior Hero Skin
+      60844, // For Honor Medjay – Hero
+      60845, // For Honor Afeera – Hero
+      62595, // For Honor - Battle Pass - Year 7 Season 4
+      62663, // For Honor Inquisitor Yinchen – Pirate Hero Skin
+      62667, // For Honor Conquistador Vela – Warmonger Hero Skin
+      62671, // For Honor Monkey King Wukong – Shaolin Hero Skin
+      62672, // For Honor Ocelotl – Hero
+      62676, // For Honor Oathbreaker Maddox Highlander Hero Skin
+      62677, // For Honor Varangian Guard Hero
+      63940, // For Honor Ezio Auditore – Peacekeeper Hero Skin
+      64149, // For Honor - Gold Heroes Pack
+      64150, // For Honor - Ultimate Heroes Pack
+      64487, // For Honor - Hero Skin - Year 8 Season 3 - Centurion
+      64488, // For Honor - Hero Skin - Year 8 Season 3 - Lawbringer
+      64657, // For Honor - Violet King & Crucible Lord - Hero Skin Bundle
+      64658, // For Honor - The Crucible Lord – Centurion Hero Skin
+      64659, // For Honor - The Violet King - Lawbringer Hero Skin
+      65359, // Queen Kalliopi - Gladiator Hero Skin - FOR HONOR
+      65365, // Virtuosa - Hero - FOR HONOR
+      65369, // Lady Saori – Nobushi Hero Skin – FOR HONOR
+      65370, // Yoshiro the Damned - Orochi Hero Skin - FOR HONOR
+      65371, // Yokai Banishers - Hero Skin Bundle - FOR HONOR
+      65375, // Prince Yi – Tiandi Hero Skin – FOR HONOR
+      65377, // Juren - Hero - FOR HONOR
+      65381, // For Honor - Queen Kalliopi - Gladiator Hero Skin
+      65382, // For Honor - The Warrior Prince - Aramusha Hero Skin
+      65386, // For Honor - Captain Coalheart - Pirate Hero Skin
+      65387, // For Honor - Virtuosa - Hero
+      65391, // For Honor - Lady Saori - Nobushi Hero Skin
+      65392, // For Honor - Yoshiro the Damned - Orochi Hero Skin
+      65393, // For Honor - Yokai Banishers - Hero Skin Bundle
+      65397, // For Honor - Prince Yi – Tiandi Hero Skin
+      65399, // For Honor - Juren - Hero
+      67197, // For Honor - The Scorching Herald – Gryphon Legendary Hero Skin
+      67199, // For Honor - Tales of Gryphon Bundle
+      67201, // For Honor - Eivor Wolf-Kissed – Berserker Hero Skin
+      67203, // For Honor - Naoe the Swift – Shinobi Hero Skin
+      67205, // For Honor - Yasuke the Brave – Shugoki Hero Skin
+      67207, // For Honor - Assassin's Creed Ultimate Hero Skin Bundle
+      67209, // For Honor - Assassin's Creed Shadows Hero Skin Bundle
+      67218, // For Honor - The Oni's Wrath – Sohei Hero Skin
+      67220, // For Honor - The Oni's Hunt Deluxe – Hero Skin Bundle
+      67222, // For Honor - Arakure – Hero
+      67226, // For Honor - Value Pack
+      67227, // Battle Pass – Y10S3 – FOR HONOR
+      67228, // For Honor – Battle Pass – Y10S3
+      67229, // Legacy Pass – Y6S3 – FOR HONOR
+      67230, // For Honor – Legacy Pass – Y6S3
+      67231, // Battle Bundle – Y10S3 – FOR HONOR
+      67233, // For Honor – Battle Bundle – Y10S3
+      67234, // The Keeper of Chains – Conqueror Skin - FOR HONOR
+      67235, // For Honor – The Keeper of Chains – Conqueror Hero Skin
+      67236, // Liana the Pale — FOR HONOR
+      67238, // The Nightstalker — FOR HONOR
+      67240, // Dragon's Daughter Bundle — FOR HONOR
+      67242, // Crimson Dragon Bundle — FOR HONOR
+      67592 // For Honor - The Oni's Hunt – Hero Skin Bundle
+    ],
+    "items": []
+  },
+
+  "17905": {
+    "name": "MONOPOLY Madness",
+    "dlcs": [
+      62089, // MONOPOLY MADNESS - DLC DINO CITY
+      62097 // MONOPOLY® Madness Dino City
+    ],
+    "items": []
+  },
+
+  "6145": {
+    "name": "Prince of Persia The Lost Crown",
+    "dlcs": [
+      6155, // Prince of Persia: The Lost Crown - Warrior Within
+      6158, // Prince of Persia: The Lost Crown - DLC - Mask Of Darkness
+      64645, // Prince of Persia: The Lost Crown - Two Thrones Costume
+      64646, // Prince of Persia: The Lost Crown - Dark Prince Costume
+      64647, // Prince of Persia: The Lost Crown - Two Thrones Skin
+      64648, // Prince of Persia: The Lost Crown - Dark Prince Skin
+      64699, // Prince of Persia: The Lost Crown - Complete Upgrade Pack
+      64700, // Prince of Persia: The Lost Crown - Complete Upgrade Pack
+      64702 // Prince of Persia: The Lost Crown - Mask of Darkness
+    ],
+    "items": []
+  },
+
+  "5487": {
+    "name": "Riders Republic",
+    "dlcs": [
+      17775, // Riders Republic - Year 1 Pass
+      63330, // Riders Republic - Skate add-on
+      63332, // Riders Republic - Hoverboard Toys
+      63333, // Riders Republic - Ridge Ultimate pack
+      67143, // Riders Republic - Careers Pack
+      67144, // Riders Republic - BMX Addon
+      67145, // Riders Republic Careers Pack
+      67146, // Riders Republic - Frenzy Pack
+      67147, // Riders Republic - Pockett Car Addon
+      67148, // Riders Republic - Pockett Plane Addon
+      67149, // Riders Republic - Pockett Hovercraft Addon
+      67150, // Riders Republic - Showdown Toys Pack Addon
+      67151, // Riders Republic Frenzy Pack
+      67152, // Riders Republic - Xtreme Pack
+      67153, // Riders Republic - Longboard Addon
+      67154, // Riders Republic - Mountainboard Addon
+      67155, // Riders Republic - Snowskate Addon
+      67156, // Riders Republic X-TREME Board Pack
+      67157, // Riders Republic - Motor Pack
+      67158, // Riders Republic - Rocket Skis Addon
+      67159, // Riders Republic - Snowmobile Addon
+      67160, // Riders Republic - Jumbo Bike Addon
+      67161, // Riders Republic - Rocket Bike Addon
+      67162, // Riders Republic - Dirt Bike Addon
+      67163 // Riders Republic Motor Pack
+    ],
+    "items": []
+  },
+
+  "1713": {
+    "name": "Skull and Bones",
+    "dlcs": [
+      59557, // Skull & Bones - Pirate Pack
+      61684, // Skull and Bones™ - Pre-Order Bonus
+      62431, // Skull & Bones - Ship Vanity Set
+      64222, // Skull and Bones - Vanity Set Y1S2
+      64223, // Skull and Bones - Vanity Set Y1S3
+      64224, // Skull and Bones - Vanity Set Y1S4
+      67789, // Skull and Bones Seasonal Box
+      67791, // Skull and Bones Seasonal Boatload
+      68381 // Skull and Bones Legendary Kingpin Boost Pack
+    ],
+    "items": []
+  },
+
+  "3584": {
+    "name": "South Park The Stick of Truth",
+    "dlcs": [
+      3725,
+      3726,
+      3727
+    ],
+    "items": []
+  },
+
+  "3088": {
+    "name": "South Park: The Fractured but Whole",
+    "dlcs": [
+      3503, // South Park™: The Fractured but Whole™ - SEASON PASS
+      4503, // South Park: The Fractured But Whole - Towelie: Your Gaming Bud
+      4504, // South Park: The Fractured But Whole - From Dusk Till Casa Bonita
+      4505, // South Park: The Fractured But Whole - Danger Deck
+      4506, // South Park: The Fractured But Whole - Bring The Crunch
+      4507, // South Park: The Fractured But Whole - Relics of Zaron
+      10779, // South Park Fractured But Whole - Towelie Your Gaming Bud
+      10780, // South Park: The Factured But Whole - Relics of Zaron – Stick of Truth Costumes and Perks Pack
+      11237, // South Park: The Fractured but Whole – Danger Deck
+      11497, // South Park™: The Fractured But Whole™ – From Dusk Till Casa Bonita
+      12274 // South Park: The Fractured But Whole Bring the Crunch
+    ],
+    "items": []
+  },
+
+  "17903": {
+    "name": "Star Wars Outlaws",
+    "dlcs": [
+      158, // Star Wars Outlaws - DLC 2 - A Pirate's Fortune
+      159, // Star Wars Outlaws - Wild Card DLC
+      160, // Star Wars Outlaws - A Pirate's Fortune
+      5884, // Star Wars Outlaws - Hunter's Legacy
+      5885, // Star Wars Outlaws - Cartel Ronin
+      5887, // Star Wars Outlaws - Hunter's Legacy Bundle
+      5888, // Star Wars Outlaws - Cartel Ronin Bundle
+      6200, // Star Wars Outlaws - Forest Commando Character Pack
+      64399, // Star Wars Outlaws Season Pass
+      64447, // Star Wars Outlaws - Forest Commando Pack
+      64714, // Star Wars Outlaws - Ultimate Pack
+      65222, // Star Wars Outlaws - Naboo Nobility Bundle
+      65223 // Star Wars Outlaws - Desert Nomad Bundle
+    ],
+    "items": []
+  },
+
+  "5277": {
+    "name": "Starlink: Battle for Atlas Deluxe Edition",
+    "dlcs": [
+      14158, // Starlink: Battle for Atlas Collection 1
+      14159 // Starlink: Battle for Atlas Collection 2
+    ],
+    "items": []
+  },
+
+  "3279": {
+    "name": "Steep",
+    "dlcs": [
+      3681, // STEEP™ Season Pass
+      4377, // Steep - Winter Fest
+      4378, // Steep - Extreme Pack
+      4776, // Steep™ - Winterfest Pack
+      4777, // STEEP™ - Extreme Pack
+      4934, // Steep - Alaska Cosmetic Pack
+      4935, // Steep - Beaver Costume Pack
+      5212, // Steep - Rocket Wings
+      5213, // Steep - 90's DLC
+      5214, // Steep - X Games
+      10783, // Steep - Road to the Olympics
+      12766, // STEEP™ - X Games Pack
+      12767, // Steep X Games - DLC
+      12768, // Steep 90's - DLC
+      12769, // Steep - Rocket Wingsuit Pack - DLC
+      12781, // Steep X-Games - X-Games DLC
+      12783, // Steep X-Games - 90's DLC
+      12785 // Steep X-Games - Rocket Wings DLC
+    ],
+    "items": []
+  },
+
+  "2855": {
+    "name": "The Crew 2",
+    "dlcs": [
+      10755, // The Crew 2 - Season Pass
+      10986, // The Crew 2 - Legendary Motors Pack
+      10987, // The Crew 2 - Motorsports Deluxe Pack
+      11805, // The Crew® 2 - Motorsports Deluxe Pack
+      11808, // The Crew® 2 - Season Pass Package
+      11828, // The Crew® 2 - Season Pass
+      61892, // The Crew 2 - Porsche Cayman GT4 2016
+      67570, // The Crew 2 - American Summit Pack
+      67571, // The Crew 2 - American Summit Pack
+      67572, // The Crew 2 - European Summit Pack
+      67573, // The Crew 2 - European Summit Pack
+      67574, // The Crew 2 - Japanese Summit Pack
+      67575, // The Crew 2 - Japanese Summit Pack
+      68349, // The Crew 2 – Nissan Car Pack
+      68350, // The Crew 2 – Nissan Car Pack
+      68351, // The Crew 2 – BMW Car Pack
+      68352, // The Crew 2 – BMW Car Pack
+      68353, // The Crew 2 – Mercedes Car Pack
+      68354, // The Crew 2 – Mercedes Car Pack
+      68355, // The Crew 2 – Sky, Dirt, and Waves Pack
+      68356, // The Crew 2 – Sky, Dirt, and Waves Pack
+      68357, // The Crew 2 – Porsche Car Pack
+      68358, // The Crew 2 – Porsche Car Pack
+      68359, // The Crew 2 – Audi Car Pack
+      68360, // The Crew 2 – Audi Car Pack
+      68361, // The Crew 2 – Bike Pack
+      68362, // The Crew 2 – Bike Pack
+      68363, // The Crew 2 – Mega Car Pack
+      68365 // The Crew 2 – Mega Car Pack
+    ],
+    "items": []
+  },
+
+  "16732": {
+    "name": "The Crew Motorfest",
+    "dlcs": [
+      63033, // The Crew Motorfest | Year 1 Pass
+      64087, // The Crew Motorfest | Year 2 Pass
+      66262, // The Crew Motorfest | Year 3 Pass
+      66265, // The Crew Motorfest - Chase Squad
+      66266, // The Crew Motorfest | Chase Squad Pack
+      66400, // The Crew Motorfest - Y3 BMW Double Pack
+      66401, // The Crew Motorfest | BMW Double Car Pack
+      66402, // The Crew Motorfest - Y3 Alfa Romeo Double Pack
+      66403, // The Crew Motorfest | Alfa Romeo Double Car Pack
+      66404, // The Crew Motorfest - Y3 Ford Triple Pack
+      66405, // The Crew Motorfest | Ford Triple Car Pack
+      66406, // The Crew Motorfest - Y3 Porsche Triple Pack
+      66407, // The Crew Motorfest | Porsche Triple Car Pack
+      66408, // The Crew Motorfest - Y3 JDM Car Pack
+      66409, // The Crew Motorfest | JDM Car Pack
+      67176, // The Crew Motorfest | Audi Double Car Pack
+      67177, // The Crew Motorfest | Audi Double Car Pack
+      67178, // The Crew Motorfest | Triple Bike Pack
+      67179, // The Crew Motorfest | Triple Bike Pack
+      67180, // The Crew Motorfest | JDM Custom Car Pack
+      67181, // The Crew Motorfest | JDM Custom Car Pack
+      67182, // The Crew Motorfest RC Frenzy Pack
+      67183, // The Crew Motorfest | RC Frenzy Pack
+      67794, // The Crew Motorfest - Drift Pack
+      67795, // The Crew Motorfest - Drift Pack
+      67796, // The Crew Motorfest - Dodge Pack
+      67797, // The Crew Motorfest - Dodge Pack
+      67798, // The Crew Motorfest - Chevrolet Pack
+      67799, // The Crew Motorfest - Chevrolet Pack
+      68460, // The Crew Motorfest - Mercedes Triple Car Pack
+      68462, // The Crew Motorfest - Mitsubishi Triple Car Pack
+      68464, // The Crew Motorfest - Dirt Pack
+      68466, // The Crew Motorfest - Tomb Raider Pack
+      68468 // The Crew Motorfest | Year 4 Pass
+    ],
+    "items": []
+  },
+
+  "3037": {
+    "name": "The Settlers: New Allies",
+    "dlcs": [
+      60582, // The Settlers®: New Allies Deluxe Pack
+      60849, // The Settlers®: New Allies - Explorer Pack
+      60850 // The Settlers®: New Allies - Deluxe Pack
+    ],
+    "items": []
+  },
+
+  "11903": {
+    "name": "Tom Clancy's Ghost Recon Breakpoint",
+    "dlcs": [
+      5394, // Tom Clancy's Ghost Recon® Breakpoint - Season Pass
+      5400, // Tom Clancy's Ghost Recon® Breakpoint - Sentinel Corp Pack
+      5401, // Tom Clancy's Ghost Recon® Breakpoint - Ultimate Survivor Pack
+      5402, // Tom Clancy's Ghost Recon® Breakpoint - Off-Road Pack
+      5457, // Tom Clancy's Ghost Recon® Breakpoint - Sacred Land Pack
+      5498, // Tom Clancy's Ghost Recon® Breakpoint - Ultimate Survivor Pack
+      5501, // Tom Clancy's Ghost Recon® Breakpoint - Sacred Land Pack
+      5557, // Tom Clancy's Ghost Recon® Breakpoint - Season Pass
+      15584, // Tom Clancy’s Ghost Recon Breakpoint Year 1 Pass
+      15639, // Ghost Recon® Breakpoint - Ultimate Pack
+      15671 // Ghost Recon® Breakpoint - Season Pass
+    ],
+    "items": []
+  },
+
+  "1771": {
+    "name": "Tom Clancy's Ghost Recon Wildlands",
+    "dlcs": [
+      3428, // Tom Clancy's Ghost Recon Wildlands: Season Pass Year 1
+      3533, // Ghost Recon Wildlands - The Peruvian Connection Mission
+      3717, // Ghost Recon Wildlands - Lion Patch
+      3771, // Ghost Recon Wildlands - Ghost Pack - Rebellion
+      3772, // Ghost Recon Wildlands - Ghost Pack - Unidad
+      3773, // Ghost Recon Wildlands - Ghost Pack - Santa Blanca
+      3777, // Ghost Recon Wildlands - Unidad Conspiracy
+      4888, // Ghost Recon Wildlands - Huntsman Pack
+      4890, // Ghost Recon Wildlands - Special Ops Pack
+      4892, // Ghost Recon Wildlands - Kraken Pack
+      4893, // Ghost Recon Wildlands - Dragon Pack
+      4894, // Ghost Recon Wildlands - Phoenix Patch
+      4895, // Ghost Recon Wildlands - Bear Patch
+      4896, // Ghost Recon Wildlands - Skull & Bones Patch
+      4897, // Ghost Recon Wildlands - Nvidia T-Shirt
+      4898, // Ghost Recon Wildlands - MSI T-Shirt
+      4899, // Ghost Recon Wildlands - Tobii T-Shirt
+      4900, // Ghost Recon Wildlands - LG T-Shirt
+      4901, // Ghost Recon Wildlands - Blue Microphones T-Shirt
+      4902, // Ghost Recon Wildlands - Asus T-Shirt
+      4903, // Ghost Recon Wildlands - Santa Blanca T-Shirt
+      4904, // Ghost Recon Wildlands - Santa Blanca Skorpion
+      4905, // Ghost Recon Wildlands - Santa Blanca Cap
+      4906, // Ghost Recon Wildlands - Dia De Los Muertos
+      4907, // Ghost Recon Wildlands - Santera
+      4910, // Ghost Recon Wildlands - Season Pass
+      4917, // Ghost Recon Wildlands - Lenovo T-Shirt
+      4948, // Ghost Recon Wildlands - Bolivian Minibus
+      4949, // Ghost Recon Wildlands - Permanent XP Booster
+      9096, // Tom Clancy's Ghost Recon Wildlands: Deluxe Pack
+      10423, // Tom Clancy's Ghost Recon Wildlands: Narco Road
+      10502, // Tom Clancy's Ghost Recon Wildlands - Fallen Ghosts
+      10916, // Tom Clancy's Ghost Recon Wildlands - Ghost War Pass
+      11634, // Tom Clancy's Ghost Recon Wildlands Year 2 Pass
+      68135, // Ghost Recon Wildlands: Cold Eye Pack
+      68136, // Tom Clancy's Ghost Recon Wildlands: Cold Eye Pack
+      68137, // Ghost Recon Wildlands: Nightfall Protocol Pack
+      68138, // Tom Clancy's Ghost Recon Wildlands: Nightfall Protocol Pack
+      68141, // Tom Clancy's Ghost Recon Wildlands - Definitive Edition Upgrade
+      68142, // Ghost Recon Wildlands - Predator Premium Pack
+      68143 // Tom Clancy's Ghost Recon Wildlands - Predator Premium Pack
+    ],
+    "items": []
+  },
+
+  "635": {
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "dlcs": [
+      2064, // Rainbow Six Siege - Ultra HD Texture Pack
+      2161, // Rainbow Six Siege - Season Pass
+      2163, // Rainbow Six Siege - Amethyst Skin
+      2165, // Rainbow Six Siege - Cobalt Skin
+      2166, // Rainbow Six Siege - Emerald Skin
+      2167, // Rainbow Six Siege - Platinum Skin
+      2168, // Rainbow Six Siege - The Safari Bundle
+      2261, // Rainbow Six Siege - The Safari Bundle
+      3126, // Rainbow Six Siege - Ruby Skin
+      3191, // Rainbow Six Siege - Topaz Skin
+      3192, // Rainbow Six Siege - Cyan Skin
+      3195, // Rainbow Six Siege - Esport Skin 1
+      3196, // Rainbow Six Siege - Esport Skin 2
+      3197, // Rainbow Six Siege - Esport Skin 3
+      3201, // Rainbow Six Siege - Esport Skins Bundle
+      3202, // Rainbow Six Siege - Stone Bundle
+      3275, // Tom Clancy’s Rainbow Six Siege Gemstone Bundle
+      3393, // RainBow Six Siege - GSG9 Racer Pack
+      3394, // Rainbow Six Siege - Racer SAS pack
+      3644, // Rainbow Six Siege - Rook The Crew
+      4134, // Rainbow Six Siege - Blitz Bushido
+      4141, // Rainbow Six Siege - Tatchanka Bushido
+      4343, // Rainbow Six Siege - Year 2 Pass
+      5279, // Rainbow Six Siege - Year 4 Pass
+      5611, // Rainbow Six Siege - Year 5 Pass
+      9746, // Rainbow Six Siege - Thermite Military Police Set
+      9748, // Rainbow Six Siege - Ash Engineering Set
+      10542, // Rainbow Six Siege - Jäger Covert Set
+      10543, // Rainbow Six Siege -  Pulse Desert Grit Set
+      11081, // Rainbow Six Siege - Year 3 Pass
+      16289, // Tom Clancy's Rainbow Six® Siege - Year 4 Operators
+      62598, // Tom Clancy's Rainbow Six® Siege - Year 7 Operators
+      66045, // Tom Clancy's Rainbow Six® Siege - Year 1 Operators
+      66046, // Tom Clancy's Rainbow Six® Siege - Year 2 Operators
+      66047, // Tom Clancy's Rainbow Six® Siege - Year 3 Operators
+      67419, // Rainbow Six Siege - Y11 Cosmetic Pack
+      67601, // Rainbow Six Siege - Y11S2 - Operator Solid Snake
+      67602, // Rainbow Six Siege - Y11S2 - Solid Snake 3D Bundle
+      67781, // Rainbow Six Siege - Y11S2 Battle Pass Bundle
+      68416 // Tom Clancy’s Rainbow Six Siege - Battle Pass Bundle
+    ],
+    "items": []
+  },
+
+  "568": {
+    "name": "Tom Clancy's The Division",
+    "dlcs": [
+      3002, // Tom Clancy's The Division - Season Pass
+      3122, // Tom Clancy's The Division™ - Loot Crate Weapon Skin
+      3164, // Tom Clancy's The Division Season Pass
+      3183, // Tom Clancy's The Division™ - Last Stand
+      3189, // Tom Clancy's The Division™- Military Specialists Outfits Pack
+      3190, // Tom Clancy's The Division™- Marine Forces Outfits Pack
+      3238, // Tom Clancy's The Division™ - Frontline Outfit Pack - DLC
+      3241, // Tom Clancy's The Division - Frontline Outfit Pack DLC
+      3257, // Tom Clancy's The Division - Sports Fan Outfit Pack DLC
+      3261, // Tom Clancy’s The Division™: Underground
+      3262, // Tom Clancy’s The Division™: Survival
+      3263, // Tom Clancy's The Division™: Last Stand
+      3285, // Tom Clancy's The Division - Sports Fan Outfit Pack DLC
+      3354, // Tom Clancy's The Division™ - Upper East Side Outfit Pack
+      3639, // Tom Clancy’s The Division™ - Streets of New York Outfit Pack
+      4509, // Tom Clancy's The Division - Parade Pack
+      4511, // Tom Clancy's The Division - Let It Snow Pack
+      4847, // Tom Clancy The Division® Parade Pack
+      4848 // Tom Clancy The Division® Let it Snow Pack
+    ],
+    "items": []
+  },
+
+  "5271": {
+    "name": "Tom Clancy’s Rainbow Six Extraction",
+    "dlcs": [
+      5395, // Rainbow Six Extraction - React Strike Pack
+      14265 // Tom Clancy’s Rainbow Six Extraction - REACT Strike Pack
+    ],
+    "items": []
+  },
+
+  "4932": {
+    "name": "Tom Clancy’s The Division 2",
+    "dlcs": [
+      5049, // Tom Clancy's The Division 2 - Season Pass
+      12062, // The Division® 2 - Season Pass Year 1
+      12075, // The Division® 2 - Deluxe Pack
+      12076, // The Division® 2 - Elite Agent Pack
+      15837, // Tom Clancy's The Division 2 - Warlords of New York
+      16205, // The Division® 2 - Warlords of New York Expansion
+      16556, // The Division® 2 - Warlords of New York Expansion
+      16562, // Tom Clancy’s The Division 2 Warlords of New York Expansion
+      64769, // Tom Clancy's The Division 2 - Shades of Red
+      64770, // Tom Clancy's The Division 2 - Augury Pack
+      64968, // Tom Clancy’s The Division 2 -  Activation Bundle
+      64972, // Tom Clancy's The Division 2 - Brooklyn Bundle
+      64973, // Tom Clancy's The Division 2 - Battle for Brooklyn
+      65330, // Tom Clancy's The Division 2 - Y7S3 - Season Pass Bundle
+      65331, // Tom Clancy's The Division 2 - Crossroads Season Pass Bundle
+      65332, // Tom Clancy's The Division 2 - Bedlam Pack
+      65805, // Tom Clancy's The Division 2 - Battle for Brooklyn Deluxe DLC
+      65808, // Tom Clancy’s The Division 2 - Battle for Brooklyn Deluxe DLC
+      65816, // Tom Clancy's The Division 2 - New York DLC Bundle
+      65883, // The Division® 2 - Battle for Brooklyn
+      67800, // Tom Clancy’s The Division 2 – CBRN Mask Pack
+      67804, // Tom Clancy’s The Division 2 – Into the Dark Bundle
+      68504, // Tom Clancy’s The Division 2 – Classic Mask Pack
+      68505, // Tom Clancy’s The Division 2 – Classic Mask Pack
+      68506, // Tom Clancy’s The Division 2 – Red Horizon Bundle
+      68616, // Tom Clancy’s The Division 2 - Echoes of Central Park DLC
+      68758 // Tom Clancy’s The Division 2 - Echoes of Central Park Deluxe
+    ],
+    "items": []
+  },
+
+  "2070": {
+    "name": "Trackmania Turbo",
+    "dlcs": [
+      3177,
+      3178,
+      3239
+    ],
+    "items": []
+  },
+
+  "297": {
+    "name": "Trials Fusion",
+    "dlcs": [
+      671, // Trials Fusion: Riders of the Rustlands
+      713, // Trials Fusion: Empire of the Sky
+      714, // Trials Fusion: Welcome to the Abyss
+      715, // Trials Fusion: Fire in the Deep
+      716, // Trials Fusion: Fault One Zero
+      717, // Trials Fusion: After The Incident
+      719, // Trials Fusion: Season Pass
+      754, // Trials Fusion - Cape Set
+      755, // Trials Fusion - 4th Upgrade set for Tricky
+      756, // Trials Fusion - 5th Upgrade set for Cheetah
+      757, // Trials Fusion - Rhino Helmet
+      758, // Trials Fusion - Full Rider Outfit
+      1288, // Trials Fusion -  Riders of the Rustlands
+      1289, // Trials Fusion -  Empire of the Sky
+      1290, // Trials Fusion -  Welcome to the Abyss
+      1295, // Trials Fusion™ - Season Pass
+      1718, // Trials Fusion -  Fire in the Deep
+      1719, // Trials Fusion -  Fault One Zero
+      1720, // Trials Fusion -  After the Incident
+      1942, // Trials Fusion: Awesome Level Max
+      2119 // Trials Fusion - Awesome Level Max
+    ],
+    "items": []
+  },
+
+  "2741": {
+    "name": "Trials of the Blood Dragon",
+    "dlcs": [
+      3387,
+      3388,
+      3537
+    ],
+    "items": []
+  },
+
+  "3600": {
+    "name": "Trials Rising",
+    "dlcs": [
+      5136, // Trials Rising - Expansion Pass
+      5137, // Trials Rising - Road 66
+      5138, // Trials Rising - Crash & Sunburn
+      12220, // Trials® Rising - Expansion Pass entitlement
+      12223, // Trials® Rising - Expansion Pass - DLC 1
+      12224, // Trials® Rising - Expansion Pass - DLC 2
+      12232 // Trials Rising Expansion Pass
+    ],
+    "items": []
+  },
+
+  "274": {
+    "name": "Watch Dogs",
+    "dlcs": [
+      570, // Watch_Dogs™ - Season Pass
+      571, // Watch_Dogs Access Granted Pack
+      572, // Watch_Dogs Season Pass
+      573, // Watch_Dogs - DLC
+      574, // Watch_Dogs Untouchable Pack
+      575, // Watch_Dogs Cyberpunk Pack
+      576, // Watch_Dogs Dedsec Shadow Pack
+      742, // Watch_Dogs Blume Agent Pack
+      743, // Watch_Dogs Club Justice Pack
+      744, // Watch_Dogs Palace Paradise Pack
+      745, // Watch_Dogs Signature Shot Pack
+      746, // Watch_Dogs Breakthrough Pack
+      747, // Watch_Dogs Bad Blood
+      748, // Watch_Dogs Conspiracy!
+      845, // Watch_Dogs Vigilante Pack
+      846, // Watch_Dogs Shadow Justice Pack
+      848, // Watch_Dogs Uplay Pre-order Pack
+      871 // Watch_Dogs Best Buy Pre-order Pack
+    ],
+    "items": []
+  },
+
+  "2688": {
+    "name": "Watch Dogs 2",
+    "dlcs": [
+      3373, // Watch_Dogs 2 - Season Pass
+      3374, // Watch_Dogs 2 - Root Access Pack
+      3378, // Watch_Dogs 2 - T-Bone Content Bundle
+      3379, // Watch_Dogs 2 - Human Conditions
+      3380, // Watch_Dogs 2 - Punk Rock Pack
+      3381, // Watch_Dogs 2 - Urban Artist Pack
+      3400, // Watch_Dogs 2 - No Compromise
+      3401, // Watch Dogs 2 - Void Dasher
+      3407, // Watch_Dogs 2 - Psychedelic Pack
+      3409, // Watch_Dogs 2 - Pixel Art Pack
+      3412, // Watch_Dogs 2 - Glam Pack
+      3413, // Watch_Dogs 2 - Private Eye Pack
+      3414, // Watch_Dogs 2 - Ubisoft Pack
+      3416, // Watch_Dogs 2 - Ded_Labs Pack
+      3417, // Watch Dogs 2 - Home Town Pack
+      3418, // Watch_Dogs 2 - Guts, Grit and Liberty Pack
+      3453, // Watch_Dogs 2 - Season Pass
+      3611, // Watch_Dogs 2 - Ultimate Pack
+      3612, // Watch Dogs 2 - Supreme Pack
+      3962, // Watch Dogs 2 - High Res Texture Pack
+      3965, // Watch_Dogs 2 - DEDSEC
+      4489, // Watch Dogs®2 - Supreme Pack
+      4490, // Watch_Dogs® 2 - Ultimate Pack
+      4715, // Watch_Dogs® 2 - Private Eye Pack
+      4931, // Watch Dogs 2 - Fully Decked Out Bundle
+      4939, // Watch_Dogs 2 - Bay Area Trash Pack
+      4940, // Watch_Dogs 2 - Velvet Cowboy Pack
+      4941, // Watch_Dogs 2 - Retro Modernist Pack
+      4942, // Watch_Dogs 2 - Glow_Pro Pack
+      4943, // Watch_Dogs 2 - Ride Britannia Pack
+      4944, // Watch_Dogs 2 - Kick it Pack
+      5000, // Watch Dogs®2 - T-Bone Content Bundle
+      10189, // Watch Dogs®2 - Human Conditions
+      10417, // Watch Dogs®2 - MEGA PACK
+      10465 // Watch Dogs®2 - No Compromise
+    ],
+    "items": []
   }
 }
